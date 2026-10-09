@@ -1,0 +1,23 @@
+{
+  "objects": 41,
+  "model": "MobileCLIP-S2",
+  "weights_revision": "8e8a808316aeb7c24d0400e1cf8f74b6937832aa",
+  "queries": [
+    {
+      "text": "chair",
+      "class_id": 20,
+      "label": "chair",
+      "uid": "3f499ff7-afdf-46c3-b1b2-b462059f8e2d",
+      "cosine_similarity_rounded": 0.592
+    },
+    {
+      "text": "sofa",
+      "class_id": 76,
+      "label": "sofa",
+      "uid": "862b95a4-aa4f-403f-bbd3-e10d30c406b4",
+      "cosine_similarity_rounded": 0.612
+    }
+  ],
+  "labels_source": "configs/dualmap/metadata/replica_room_0/classes_info/SOURCE.txt",
+  "note": "Cosine similarity is not accuracy; original default class list gave kettle/blanket for these IDs"
+}

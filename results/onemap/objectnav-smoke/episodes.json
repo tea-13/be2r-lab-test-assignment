@@ -1,0 +1,38 @@
+{
+  "source": "ObjectNav HM3D v2 val/content/GLAQ4DNUx5U.json.gz",
+  "source_sha256": "5026c89e177d239b03bba88f716424571cd92885c9a78f3261234366ca3a4b27",
+  "original_episodes": 28,
+  "selection": "first 3 episodes in official file, unchanged",
+  "episodes": [
+    {
+      "episode_id": "3",
+      "scene_id": "hm3d_v0.2/val/00861-GLAQ4DNUx5U/GLAQ4DNUx5U.basis.glb",
+      "object_category": "toilet",
+      "info": {
+        "geodesic_distance": 14.84909,
+        "euclidean_distance": 12.63157,
+        "closest_goal_object_id": 3
+      }
+    },
+    {
+      "episode_id": "0",
+      "scene_id": "hm3d_v0.2/val/00861-GLAQ4DNUx5U/GLAQ4DNUx5U.basis.glb",
+      "object_category": "sofa",
+      "info": {
+        "geodesic_distance": 9.49325,
+        "euclidean_distance": 6.05671,
+        "closest_goal_object_id": 432
+      }
+    },
+    {
+      "episode_id": "2",
+      "scene_id": "hm3d_v0.2/val/00861-GLAQ4DNUx5U/GLAQ4DNUx5U.basis.glb",
+      "object_category": "bed",
+      "info": {
+        "geodesic_distance": 3.17073,
+        "euclidean_distance": 2.8115,
+        "closest_goal_object_id": 618
+      }
+    }
+  ]
+}

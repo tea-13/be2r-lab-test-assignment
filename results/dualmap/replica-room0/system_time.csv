@@ -1,0 +1,8 @@
+Step,Avg Time (s),90th Percentile (s)
+Time Per Frame,0.7921,1.1714
+Detection Process,0.3627,0.4294
+Save Detection,0.0000,0.0000
+Vis Detection,0.0257,0.0326
+Local Mapping,0.4293,0.8204
+Global Mapping,0.0000,0.0000
+Merging,0.0000,0.0000

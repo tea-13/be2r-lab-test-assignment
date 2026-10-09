@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/home/kenya/Documents/GitHub/be2r-lab-test-assignment/third_party/HOV-SG/../../results/hovsg/merge-check/run.py", line 19, in <module>
+    graph.build_graph(str(out))
+  File "/home/kenya/Documents/GitHub/be2r-lab-test-assignment/third_party/HOV-SG/hovsg/graph/graph.py", line 829, in build_graph
+    room.merge_objects()
+  File "/home/kenya/Documents/GitHub/be2r-lab-test-assignment/third_party/HOV-SG/hovsg/graph/room.py", line 63, in merge_objects
+    overlap = find_overlapping_ratio(obj1.pcd, obj2.pcd, radius)
+NameError: name 'find_overlapping_ratio' is not defined

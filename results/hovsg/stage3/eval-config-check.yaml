@@ -1,0 +1,13 @@
+main:
+  device: cuda
+  dataset: replica
+  scene_name: room_0
+  feature_map_path: /home/kenya/Documents/GitHub/be2r-lab-test-assignment/results/hovsg/replica-20261009-015744-1071525/raw/replica
+  replica_dataset_gt_path: /home/kenya/Documents/GitHub/be2r-lab-test-assignment/data/datasets/replica-original-v1
+  scannet_dataset_gt_path: /home/SOME_USERNAME/data/ScanNet/scans
+  replica_color_map: /home/kenya/Documents/GitHub/be2r-lab-test-assignment/third_party/HOV-SG/hovsg/labels/class_id_colors.json
+models:
+  clip:
+    general_type: ViT-L-14
+    type: ViT-H-14
+    checkpoint: /home/kenya/Documents/GitHub/be2r-lab-test-assignment/data/weights/hovsg/laion2b_s32b_b79k.bin

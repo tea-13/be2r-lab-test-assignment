@@ -1,0 +1,6 @@
+{
+  "upstream_sha256": "94666402dae2858fa68f9cdfa5e8a63fa77b252bc192b552079b0281eb9f9c03",
+  "source_commit": "897abb4ded745de2c23fe82a606e1ac0d5157089",
+  "changes": "Only scene asset/config paths, per user request hm3d_example; no algorithm changes",
+  "generated_script_sha256": "5016a982ac0d41bf893b03bdd8329010e6a9530dbd37af05f68c3361d112192d"
+}

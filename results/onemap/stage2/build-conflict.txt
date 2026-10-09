@@ -1,0 +1,11 @@
+#11 146.3 ERROR: Cannot install -r requirements.txt (line 10) and torch==2.14.1 because these package versions have conflicting dependencies.
+#11 146.3 
+#11 146.3 The conflict is caused by:
+#11 146.3     torch 2.14.1 depends on setuptools>=77.0.3
+#11 146.3     spock-config 3.1.0 depends on setuptools~=68.1; python_version >= "3.8"
+#11 146.3 
+#11 146.3 To fix this you could try to:
+#11 146.3 1. loosen the range of package versions you've specified
+#11 146.3 2. remove package versions to allow pip attempt to solve the dependency conflict
+#11 146.3 
+#11 146.3 ERROR: ResolutionImpossible: for help visit https://pip.pypa.io/en/latest/topics/dependency-resolution/#dealing-with-dependency-conflicts

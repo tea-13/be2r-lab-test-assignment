@@ -1,0 +1,2 @@
+{"torch": "2.8.0+cu128", "cuda": "12.8", "torchvision": "0.23.0+cu128", "numpy": "1.26.4", "faiss": "1.11.0", "open3d": "0.18.0", "cv2": "4.11.0"}
+{"gpu": "NVIDIA GeForce RTX 5060 Ti", "cuda_matmul": true, "faiss_cpu_index": true, "Graph_import": true}

@@ -1,0 +1,10 @@
+Step,Avg Time (s),90th Percentile (s)
+Detection Filter,0.0654,0.0932
+YOLO+Segmentation+FastSAM,0.1085,0.1257
+FastSAM,0.1067,0.1253
+YOLO,0.0188,0.0206
+Segmentation,0.0647,0.0719
+mask_filter,0.0087,0.0116
+CLIP+Create Object Pointcloud,0.1514,0.1848
+Create Object Pointcloud,0.1424,0.1845
+CLIP,0.1276,0.1592

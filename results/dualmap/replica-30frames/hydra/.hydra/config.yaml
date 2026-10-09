@@ -1,0 +1,167 @@
+dataset_name: replica
+scene_id: room_0
+dataset_path: /home/kenya/Documents/GitHub/be2r-lab-test-assignment/data/datasets/replica-smoke/Replica
+dataset_conf_path: config/data_config/dataset/replica.yaml
+dataset_gt_path: dataset/Replica-Dataset/Replica_original
+output_path: /home/kenya/Documents/GitHub/be2r-lab-test-assignment/results/dualmap/replica-30frames/raw
+logging_config: ./config/support_config/logging_config.yaml
+show_debug_entities: false
+show_local_entities: true
+floor_height: -1.2
+related_height: -0.1
+robot_height: 1.5
+path_radii: 0.03
+action_path_color:
+- 255
+- 0
+- 0
+global_path_color:
+- 0
+- 255
+- 0
+filter_ceiling: true
+ceiling_height: 2.5
+ceiling_threshold: 0.2
+use_directional_path: false
+use_remove_sharp_turns: true
+show_global_map_3d_bbox: false
+restrict_unknown_labels: true
+save_all_path: true
+world_roll: 0.0
+world_pitch: 0.0
+world_yaw: 0.0
+follower_translation:
+- 0.8
+- -1.0
+- -2.0
+follower_roll: -20.0
+follower_pitch: -20.0
+follower_yaw: 0.0
+follower_translation2:
+- 0.8
+- -3.2
+- -6.0
+follower_roll2: -25.0
+follower_pitch2: -5.0
+follower_yaw2: 0.0
+yolo:
+  _target_: _self_
+  model_path: /home/kenya/Documents/GitHub/be2r-lab-test-assignment/data/weights/dualmap/yolov8l-world.pt
+  classes_path: ${output_path}/${dataset_name}_${scene_id}/classes_info/${dataset_name}_${scene_id}_names.txt
+  bg_classes:
+  - wall
+  - floor
+  - ceiling
+  skip_bg: false
+  use_given_classes: true
+  given_classes_path: ./config/class_list/gpt_indoor_general.txt
+  num_classes: 0
+sam:
+  _target_: _self_
+  model_path: /home/kenya/Documents/GitHub/be2r-lab-test-assignment/data/weights/dualmap/mobile_sam.pt
+fastsam:
+  _target_: _self_
+  model_path: /home/kenya/Documents/GitHub/be2r-lab-test-assignment/data/weights/dualmap/FastSAM-s.pt
+clip:
+  _target_: _self_
+  model_name: MobileCLIP-S2
+  pretrained: /home/kenya/Documents/GitHub/be2r-lab-test-assignment/data/weights/dualmap/mobileclip_s2.bin
+  clip_length: 512
+device: cuda
+use_rerun: false
+run_detection: true
+save_detection: false
+detection_path: ${output_path}/${dataset_name}_${scene_id}/detections
+visualize_detection: false
+show_3d_bbox_overlapped: false
+use_fastsam: true
+fastsam_confidence: 0.8
+show_fastsam_debug: false
+skip_refinement: false
+small_mask_th: 204
+use_weighted_feature: true
+image_weight: 0.7
+use_avg_feat_for_unknown: true
+min_points_threshold: 5
+downsample_voxel_size: 0.02
+dbscan_remove_noise: true
+dbscan_eps: 0.1
+dbscan_min_points: 10
+pcd_sample_ratio: 0.04
+sim_threshold: 1.2
+mobility:
+  similarity_delta: 0.05
+  descriptor_threshold: 0.45
+object_matching:
+  overlap_ratio: 0.8
+  score_difference: 0.1
+object_tracking:
+  max_similarity: 0.8
+on_relation:
+  plane_distance: 0.1
+time_threshold: 0.5
+pose_threshold: 0.1
+rotation_threshold: 3
+active_window_size: 10
+downsample_interval: 3
+max_common_th: 6
+max_pending_count: 5
+stable_num: 8
+no_update: false
+use_end_process: true
+use_parallel: false
+run_local_mapping_only: true
+merge_local_map: false
+merge_sim_threshold: 0.9
+map_save_path: ${output_path}/${dataset_name}_${scene_id}/map
+save_local_map: true
+save_global_map: false
+save_cropped: false
+layout_voxel_size: 0.05
+save_layout: true
+preload_global_map: false
+preload_layout: false
+preload_path: ''
+use_given_path: false
+given_path_dir: ''
+config_file_path: config/actions.yaml
+monitor_interval: 0.1
+edit_wall: false
+save_wall: false
+lm_examples:
+- stool
+- cabinet
+- couch
+- shelf
+- armchair
+- bathtub
+- chair
+- sofa
+- table
+- rack
+- bathroom-vanity
+- bed
+hm_examples:
+- backpack
+- box
+- clothes
+- cup
+- cushion
+- lamp
+- door
+- pillow
+- bowl
+- microwave
+- indoor-plant
+- carpet
+- rug
+lm_descriptions:
+- furniture that is not often moved
+- furniture that is used for sitting
+- furniture that is used for placing things
+use_stride: true
+stride: 1
+start: 0
+end: 30
+image_height: null
+image_width: null

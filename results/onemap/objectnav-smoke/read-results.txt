@@ -1,0 +1,35 @@
+There was a problem when trying to write in your cache folder (/.cache/huggingface/hub). You should set the environment variable TRANSFORMERS_CACHE to a writable directory.
+/usr/local/lib/python3.10/dist-packages/timm/models/layers/__init__.py:49: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+mkdir -p failed for path /.config/matplotlib: [Errno 13] Permission denied: '/.config'
+Matplotlib created a temporary cache directory at /tmp/matplotlib-q21c_ws1 because there was an issue with the default path (/.config/matplotlib); it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+TensorRT not available, cannot use Jetson
+WARNING ⚠️ user config directory '/.config/Ultralytics' is not writeable, defaulting to '/tmp' or CWD.Alternatively you can define a YOLO_CONFIG_DIR environment variable for this path.
+SupervisionWarnings: BoundingBoxAnnotator is deprecated: `BoundingBoxAnnotator` is deprecated and has been renamed to `BoxAnnotator`. `BoundingBoxAnnotator` will be removed in supervision-0.26.0.
+FutureWarning: Importing from timm.models.registry is deprecated, please import via timm.models
+UserWarning: Overwriting tiny_vit_5m_224 in registry with mobile_sam.modeling.tiny_vit_sam.tiny_vit_5m_224. This is because the name being registered conflicts with an existing name. Please check if this is not expected.
+UserWarning: Overwriting tiny_vit_11m_224 in registry with mobile_sam.modeling.tiny_vit_sam.tiny_vit_11m_224. This is because the name being registered conflicts with an existing name. Please check if this is not expected.
+UserWarning: Overwriting tiny_vit_21m_224 in registry with mobile_sam.modeling.tiny_vit_sam.tiny_vit_21m_224. This is because the name being registered conflicts with an existing name. Please check if this is not expected.
+UserWarning: Overwriting tiny_vit_21m_384 in registry with mobile_sam.modeling.tiny_vit_sam.tiny_vit_21m_384. This is because the name being registered conflicts with an existing name. Please check if this is not expected.
+UserWarning: Overwriting tiny_vit_21m_512 in registry with mobile_sam.modeling.tiny_vit_sam.tiny_vit_21m_512. This is because the name being registered conflicts with an existing name. Please check if this is not expected.
+FutureWarning: DataFrameGroupBy.apply operated on the grouping columns. This behavior is deprecated, and in a future version of pandas the grouping columns will be excluded from the operation. Either pass `include_groups=False` to exclude the groupings or explicitly select the grouping columns after groupby to silence this warning.
+FutureWarning: DataFrameGroupBy.apply operated on the grouping columns. This behavior is deprecated, and in a future version of pandas the grouping columns will be excluded from the operation. Either pass `include_groups=False` to exclude the groupings or explicitly select the grouping columns after groupby to silence this warning.
+FutureWarning: DataFrame.applymap has been deprecated. Use DataFrame.map instead.
+FutureWarning: DataFrame.applymap has been deprecated. Use DataFrame.map instead.
+Results by Object (sorted by SUCCESS rate, descending):
++---+---------+-------------+---------+-------------+
+|   | Object  | FAILURE_OOT | SUCCESS | Average SPL |
++---+---------+-------------+---------+-------------+
+| 1 |   bed   |    0.00%    | 100.00% |   81.98%    |
+| 0 | Overall |   66.67%    | 33.33%  |   27.33%    |
+| 2 |  sofa   |   100.00%   |  0.00%  |    0.00%    |
+| 3 | toilet  |   100.00%   |  0.00%  |    0.00%    |
++---+---------+-------------+---------+-------------+
+
+Results by Scene (sorted by SUCCESS rate, descending):
++---+-------------------------------------------------------+-------------+---------+-------------+
+|   |                         Scene                         | FAILURE_OOT | SUCCESS | Average SPL |
++---+-------------------------------------------------------+-------------+---------+-------------+
+| 0 |                        Overall                        |   66.67%    | 33.33%  |   27.33%    |
+| 1 | hm3d_v0.2/val/00861-GLAQ4DNUx5U/GLAQ4DNUx5U.basis.glb |   66.67%    | 33.33%  |   27.33%    |
++---+-------------------------------------------------------+-------------+---------+-------------+

@@ -1,0 +1,8 @@
+{
+  "source": "https://cvg-data.inf.ethz.ch/nice-slam/data/Replica.zip",
+  "bytes": 12442855671,
+  "sha256": "dc18265e213f8281444b768eed76f627bde8c3b925654934f84f78a87990a548",
+  "extracted_scene": "room0",
+  "extracted_members": 4004,
+  "verification": "CRC checked by zipfile on all extracted members; other scenes not extracted"
+}

@@ -1,0 +1,9 @@
+{
+  "image": "be2r-onemap:897abb4",
+  "id": "sha256:3f5a665b91e2f6a82be89f22d5f1a981c879ca7895dbb73ff2f88ee81f2c6934",
+  "source": "897abb4ded745de2c23fe82a606e1ac0d5157089",
+  "base": "nvidia/cuda:12.8.1-cudnn-devel-ubuntu22.04",
+  "base_digest": "sha256:ad6d59a3bbf3e82c1c849c9ac09cfc2a3e0bbb8655042fd899be6681b3fe2a85",
+  "build_exit_code": 0,
+  "upstream_modified": false
+}

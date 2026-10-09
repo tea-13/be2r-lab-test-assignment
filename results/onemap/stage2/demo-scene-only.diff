@@ -1,0 +1,13 @@
+--- upstream/habitat_test.py
++++ local/habitat_test_example.py
+@@ -50,8 +50,8 @@
+     hm3d_path = "datasets/scene_datasets/hm3d"
+ 
+     backend_cfg = habitat_sim.SimulatorConfiguration()
+-    backend_cfg.scene_id = hm3d_path + "/val/00853-5cdEh9F2hJL/5cdEh9F2hJL.basis.glb"
+-    backend_cfg.scene_dataset_config_file = hm3d_path + "/hm3d_annotated_basis.scene_dataset_config.json"
++    backend_cfg.scene_id = hm3d_path + "/example/00861-GLAQ4DNUx5U/GLAQ4DNUx5U.basis.glb"
++    backend_cfg.scene_dataset_config_file = hm3d_path + "/example/hm3d_annotated_example_basis.scene_dataset_config.json"
+ 
+     hfov = 90
+     rgb = habitat_sim.CameraSensorSpec()

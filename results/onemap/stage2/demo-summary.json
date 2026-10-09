@@ -1,0 +1,17 @@
+{
+  "status": "SMOKE_TESTED",
+  "scene": "00861-GLAQ4DNUx5U",
+  "query": "A Couch",
+  "map_updates": 317,
+  "mean_add_data_seconds": 0.23904884651256283,
+  "median_add_data_seconds": 0.23136305809020996,
+  "termination": "manual SIGINT after successful smoke; upstream infinite loop",
+  "exit_code": 130,
+  "benchmark": false,
+  "make_target_check": {
+    "command": "ONEMAP_DEMO_SECONDS=30 make onemap-demo",
+    "map_updates": 65,
+    "timeout_exit": 124,
+    "make_exit": 2
+  }
+}

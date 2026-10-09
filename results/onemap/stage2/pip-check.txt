@@ -1,0 +1,2 @@
+salesforce-lavis 1.0.2 has requirement timm==0.4.12, but you have timm 1.0.30.
+decord 0.6.0 is not supported on this platform

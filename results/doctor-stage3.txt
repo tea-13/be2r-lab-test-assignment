@@ -1,0 +1,43 @@
+Kernel: Linux 7.0.0-28-generic
+OS: Ubuntu 24.04.3 LTS
+WSL: no
+CPU(s):                                  16
+Model name:                              AMD Ryzen 7 7700 8-Core Processor
+               total        used        free      shared  buff/cache   available
+Mem:            30Gi       7.9Gi       5.5Gi       219Mi        17Gi        22Gi
+Swap:          8.0Gi       2.5Gi       5.5Gi
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme1n1p3  915G  679G  191G  79% /
+git: /usr/bin/git
+python3: /usr/bin/python3
+WARN conda: unavailable in PATH
+uv: /home/kenya/.local/bin/uv
+docker: /usr/bin/docker
+nvcc: /usr/bin/nvcc
+cmake: /usr/bin/cmake
+gcc: /usr/bin/gcc
+ninja: /usr/bin/ninja
+WARN tmux: unavailable in PATH
+Workspace Conda: conda 26.7.2
+Workspace Python (dualmap): Python 3.10.22
+Workspace Python (vlfm): Python 3.9.23
+Workspace Python (hovsg): Python 3.9.25
+Python 3.12.3
+uv 0.9.17
+nvcc: NVIDIA (R) Cuda compiler driver
+Copyright (c) 2005-2023 NVIDIA Corporation
+Built on Fri_Jan__6_16:45:21_PST_2023
+Cuda compilation tools, release 12.0, V12.0.140
+Build cuda_12.0.r12.0/compiler.32267302_0
+NVIDIA GeForce RTX 5060 Ti, 16311 MiB, 14755 MiB, 580.178.04
+Docker version 28.5.1, build e180ab8
+Docker Compose version v2.40.1
+Docker server: 28.5.1
+GUI: DISPLAY=:1 WAYLAND_DISPLAY=unset SESSION=x11 (rendering not tested)
+Git submodules:
+ 157235ec49e6a1f439babbc571c4c02ad1f06aa9 third_party/DualMap (heads/main)
+ 1140b8d197e4ed7d56b3a92216ded98bb1c2ac87 third_party/DualMap/3rdparty/mobileclip (1140b8d)
+ d6e65a53c8be6faec3f01f00d1644d967f89e605 third_party/HOV-SG (heads/main)
+ 897abb4ded745de2c23fe82a606e1ac0d5157089 third_party/OneMap (heads/main)
+ 584ed56008754fde7997d904983607def8328322 third_party/vlfm (heads/main)
+Doctor completed; warnings do not confirm method readiness. GPU compute and demos require separate checks.

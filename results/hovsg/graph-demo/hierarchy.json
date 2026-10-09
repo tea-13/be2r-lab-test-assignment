@@ -1,0 +1,4230 @@
+{
+  "floors": [
+    {
+      "floor_id": "0",
+      "name": "floor_0",
+      "rooms": [
+        "0_0",
+        "0_1",
+        "0_2",
+        "0_3",
+        "0_4",
+        "0_5"
+      ]
+    },
+    {
+      "floor_id": "1",
+      "name": "floor_1",
+      "rooms": [
+        "1_0",
+        "1_1",
+        "1_2",
+        "1_3",
+        "1_4",
+        "1_5",
+        "1_6",
+        "1_7"
+      ]
+    }
+  ],
+  "rooms": [
+    {
+      "room_id": "0_0",
+      "name": "room_0",
+      "floor_id": "0",
+      "objects": [
+        "0_0_0",
+        "0_0_1",
+        "0_0_2",
+        "0_0_3",
+        "0_0_4",
+        "0_0_5",
+        "0_0_6",
+        "0_0_7",
+        "0_0_8",
+        "0_0_9",
+        "0_0_10",
+        "0_0_11",
+        "0_0_12",
+        "0_0_13"
+      ]
+    },
+    {
+      "room_id": "0_1",
+      "name": "room_1",
+      "floor_id": "0",
+      "objects": [
+        "0_1_0",
+        "0_1_1",
+        "0_1_2",
+        "0_1_3",
+        "0_1_4",
+        "0_1_5",
+        "0_1_6",
+        "0_1_7",
+        "0_1_8",
+        "0_1_9",
+        "0_1_10",
+        "0_1_11",
+        "0_1_12",
+        "0_1_13",
+        "0_1_14",
+        "0_1_15",
+        "0_1_16",
+        "0_1_17",
+        "0_1_18",
+        "0_1_19",
+        "0_1_20",
+        "0_1_21",
+        "0_1_22",
+        "0_1_23",
+        "0_1_24",
+        "0_1_25",
+        "0_1_26",
+        "0_1_27",
+        "0_1_28",
+        "0_1_29",
+        "0_1_30",
+        "0_1_31",
+        "0_1_32",
+        "0_1_33",
+        "0_1_34",
+        "0_1_35",
+        "0_1_36",
+        "0_1_37",
+        "0_1_38",
+        "0_1_39",
+        "0_1_40",
+        "0_1_41",
+        "0_1_42",
+        "0_1_43",
+        "0_1_44",
+        "0_1_45",
+        "0_1_46",
+        "0_1_47",
+        "0_1_48",
+        "0_1_49",
+        "0_1_50",
+        "0_1_51",
+        "0_1_52",
+        "0_1_53",
+        "0_1_54",
+        "0_1_55",
+        "0_1_56",
+        "0_1_57"
+      ]
+    },
+    {
+      "room_id": "0_2",
+      "name": "room_2",
+      "floor_id": "0",
+      "objects": [
+        "0_2_0",
+        "0_2_1",
+        "0_2_2",
+        "0_2_3",
+        "0_2_4",
+        "0_2_5",
+        "0_2_6",
+        "0_2_7",
+        "0_2_8",
+        "0_2_9",
+        "0_2_10",
+        "0_2_11",
+        "0_2_12",
+        "0_2_13",
+        "0_2_14",
+        "0_2_15",
+        "0_2_16",
+        "0_2_17",
+        "0_2_18",
+        "0_2_19",
+        "0_2_20",
+        "0_2_21",
+        "0_2_22",
+        "0_2_23",
+        "0_2_24",
+        "0_2_25",
+        "0_2_26",
+        "0_2_27",
+        "0_2_28",
+        "0_2_29",
+        "0_2_30",
+        "0_2_31",
+        "0_2_32",
+        "0_2_33",
+        "0_2_34",
+        "0_2_35",
+        "0_2_36",
+        "0_2_37",
+        "0_2_38",
+        "0_2_39",
+        "0_2_40",
+        "0_2_41",
+        "0_2_42",
+        "0_2_43",
+        "0_2_44",
+        "0_2_45",
+        "0_2_46",
+        "0_2_47",
+        "0_2_48",
+        "0_2_49",
+        "0_2_50",
+        "0_2_51",
+        "0_2_52",
+        "0_2_53",
+        "0_2_54",
+        "0_2_55",
+        "0_2_56",
+        "0_2_57",
+        "0_2_58",
+        "0_2_59",
+        "0_2_60",
+        "0_2_61",
+        "0_2_62",
+        "0_2_63",
+        "0_2_64",
+        "0_2_65",
+        "0_2_66",
+        "0_2_67",
+        "0_2_68",
+        "0_2_69",
+        "0_2_70",
+        "0_2_71",
+        "0_2_72",
+        "0_2_73",
+        "0_2_74",
+        "0_2_75",
+        "0_2_76",
+        "0_2_77",
+        "0_2_78",
+        "0_2_79",
+        "0_2_80",
+        "0_2_81",
+        "0_2_82",
+        "0_2_83",
+        "0_2_84",
+        "0_2_85"
+      ]
+    },
+    {
+      "room_id": "0_3",
+      "name": "room_3",
+      "floor_id": "0",
+      "objects": [
+        "0_3_0",
+        "0_3_1",
+        "0_3_2",
+        "0_3_3",
+        "0_3_4",
+        "0_3_5",
+        "0_3_6",
+        "0_3_7",
+        "0_3_8",
+        "0_3_9",
+        "0_3_10",
+        "0_3_11",
+        "0_3_12",
+        "0_3_13",
+        "0_3_14",
+        "0_3_15",
+        "0_3_16",
+        "0_3_17",
+        "0_3_18",
+        "0_3_19",
+        "0_3_20",
+        "0_3_21",
+        "0_3_22",
+        "0_3_23"
+      ]
+    },
+    {
+      "room_id": "0_4",
+      "name": "room_4",
+      "floor_id": "0",
+      "objects": [
+        "0_4_0",
+        "0_4_1",
+        "0_4_2",
+        "0_4_3",
+        "0_4_4",
+        "0_4_5",
+        "0_4_6",
+        "0_4_7",
+        "0_4_8",
+        "0_4_9",
+        "0_4_10",
+        "0_4_11",
+        "0_4_12",
+        "0_4_13",
+        "0_4_14",
+        "0_4_15",
+        "0_4_16",
+        "0_4_17",
+        "0_4_18",
+        "0_4_19",
+        "0_4_20",
+        "0_4_21",
+        "0_4_22",
+        "0_4_23",
+        "0_4_24",
+        "0_4_25",
+        "0_4_26",
+        "0_4_27",
+        "0_4_28",
+        "0_4_29",
+        "0_4_30",
+        "0_4_31",
+        "0_4_32",
+        "0_4_33",
+        "0_4_34",
+        "0_4_35",
+        "0_4_36",
+        "0_4_37",
+        "0_4_38",
+        "0_4_39",
+        "0_4_40",
+        "0_4_41",
+        "0_4_42",
+        "0_4_43",
+        "0_4_44",
+        "0_4_45",
+        "0_4_46",
+        "0_4_47",
+        "0_4_48",
+        "0_4_49",
+        "0_4_50"
+      ]
+    },
+    {
+      "room_id": "0_5",
+      "name": "room_5",
+      "floor_id": "0",
+      "objects": [
+        "0_5_0",
+        "0_5_1",
+        "0_5_2",
+        "0_5_3",
+        "0_5_4",
+        "0_5_5",
+        "0_5_6",
+        "0_5_7",
+        "0_5_8",
+        "0_5_9",
+        "0_5_10",
+        "0_5_11",
+        "0_5_12",
+        "0_5_13",
+        "0_5_14",
+        "0_5_15",
+        "0_5_16",
+        "0_5_17",
+        "0_5_18",
+        "0_5_19",
+        "0_5_20",
+        "0_5_21",
+        "0_5_22",
+        "0_5_23",
+        "0_5_24",
+        "0_5_25",
+        "0_5_26",
+        "0_5_27",
+        "0_5_28",
+        "0_5_29",
+        "0_5_30",
+        "0_5_31",
+        "0_5_32",
+        "0_5_33",
+        "0_5_34",
+        "0_5_35",
+        "0_5_36",
+        "0_5_37",
+        "0_5_38",
+        "0_5_39",
+        "0_5_40",
+        "0_5_41",
+        "0_5_42",
+        "0_5_43",
+        "0_5_44",
+        "0_5_45",
+        "0_5_46",
+        "0_5_47",
+        "0_5_48",
+        "0_5_49",
+        "0_5_50",
+        "0_5_51",
+        "0_5_52",
+        "0_5_53",
+        "0_5_54",
+        "0_5_55",
+        "0_5_56",
+        "0_5_57",
+        "0_5_58",
+        "0_5_59",
+        "0_5_60",
+        "0_5_61",
+        "0_5_62",
+        "0_5_63",
+        "0_5_64",
+        "0_5_65",
+        "0_5_66",
+        "0_5_67",
+        "0_5_68",
+        "0_5_69",
+        "0_5_70",
+        "0_5_71",
+        "0_5_72",
+        "0_5_73",
+        "0_5_74",
+        "0_5_75",
+        "0_5_76",
+        "0_5_77",
+        "0_5_78",
+        "0_5_79",
+        "0_5_80",
+        "0_5_81",
+        "0_5_82",
+        "0_5_83",
+        "0_5_84",
+        "0_5_85",
+        "0_5_86",
+        "0_5_87",
+        "0_5_88",
+        "0_5_89",
+        "0_5_90",
+        "0_5_91",
+        "0_5_92",
+        "0_5_93",
+        "0_5_94",
+        "0_5_95",
+        "0_5_96",
+        "0_5_97",
+        "0_5_98",
+        "0_5_99",
+        "0_5_100",
+        "0_5_101",
+        "0_5_102",
+        "0_5_103",
+        "0_5_104",
+        "0_5_105",
+        "0_5_106",
+        "0_5_107",
+        "0_5_108",
+        "0_5_109",
+        "0_5_110",
+        "0_5_111",
+        "0_5_112",
+        "0_5_113",
+        "0_5_114",
+        "0_5_115",
+        "0_5_116",
+        "0_5_117",
+        "0_5_118",
+        "0_5_119",
+        "0_5_120",
+        "0_5_121",
+        "0_5_122",
+        "0_5_123",
+        "0_5_124",
+        "0_5_125",
+        "0_5_126",
+        "0_5_127",
+        "0_5_128",
+        "0_5_129",
+        "0_5_130",
+        "0_5_131",
+        "0_5_132",
+        "0_5_133",
+        "0_5_134",
+        "0_5_135",
+        "0_5_136",
+        "0_5_137"
+      ]
+    },
+    {
+      "room_id": "1_0",
+      "name": "room_0",
+      "floor_id": "1",
+      "objects": [
+        "1_0_0",
+        "1_0_1",
+        "1_0_2",
+        "1_0_3",
+        "1_0_4",
+        "1_0_5",
+        "1_0_6",
+        "1_0_7",
+        "1_0_8",
+        "1_0_9",
+        "1_0_10",
+        "1_0_11",
+        "1_0_12",
+        "1_0_13",
+        "1_0_14",
+        "1_0_15",
+        "1_0_16",
+        "1_0_17",
+        "1_0_18",
+        "1_0_19",
+        "1_0_20",
+        "1_0_21"
+      ]
+    },
+    {
+      "room_id": "1_1",
+      "name": "room_1",
+      "floor_id": "1",
+      "objects": [
+        "1_1_0",
+        "1_1_1",
+        "1_1_2",
+        "1_1_3",
+        "1_1_4",
+        "1_1_5",
+        "1_1_6",
+        "1_1_7",
+        "1_1_8",
+        "1_1_9",
+        "1_1_10",
+        "1_1_11",
+        "1_1_12",
+        "1_1_13",
+        "1_1_14",
+        "1_1_15",
+        "1_1_16",
+        "1_1_17",
+        "1_1_18",
+        "1_1_19",
+        "1_1_20",
+        "1_1_21",
+        "1_1_22",
+        "1_1_23",
+        "1_1_24",
+        "1_1_25",
+        "1_1_26",
+        "1_1_27",
+        "1_1_28",
+        "1_1_29",
+        "1_1_30"
+      ]
+    },
+    {
+      "room_id": "1_2",
+      "name": "room_2",
+      "floor_id": "1",
+      "objects": [
+        "1_2_0",
+        "1_2_1",
+        "1_2_2",
+        "1_2_3",
+        "1_2_4",
+        "1_2_5",
+        "1_2_6",
+        "1_2_7",
+        "1_2_8",
+        "1_2_9",
+        "1_2_10",
+        "1_2_11",
+        "1_2_12",
+        "1_2_13",
+        "1_2_14",
+        "1_2_15",
+        "1_2_16",
+        "1_2_17",
+        "1_2_18",
+        "1_2_19",
+        "1_2_20",
+        "1_2_21",
+        "1_2_22",
+        "1_2_23",
+        "1_2_24",
+        "1_2_25",
+        "1_2_26",
+        "1_2_27",
+        "1_2_28",
+        "1_2_29",
+        "1_2_30",
+        "1_2_31",
+        "1_2_32",
+        "1_2_33",
+        "1_2_34",
+        "1_2_35",
+        "1_2_36",
+        "1_2_37",
+        "1_2_38",
+        "1_2_39",
+        "1_2_40",
+        "1_2_41",
+        "1_2_42",
+        "1_2_43",
+        "1_2_44",
+        "1_2_45",
+        "1_2_46",
+        "1_2_47"
+      ]
+    },
+    {
+      "room_id": "1_3",
+      "name": "room_3",
+      "floor_id": "1",
+      "objects": [
+        "1_3_0",
+        "1_3_1",
+        "1_3_2",
+        "1_3_3",
+        "1_3_4",
+        "1_3_5",
+        "1_3_6",
+        "1_3_7",
+        "1_3_8",
+        "1_3_9",
+        "1_3_10",
+        "1_3_11",
+        "1_3_12",
+        "1_3_13",
+        "1_3_14",
+        "1_3_15",
+        "1_3_16",
+        "1_3_17",
+        "1_3_18",
+        "1_3_19",
+        "1_3_20",
+        "1_3_21"
+      ]
+    },
+    {
+      "room_id": "1_4",
+      "name": "room_4",
+      "floor_id": "1",
+      "objects": [
+        "1_4_0",
+        "1_4_1",
+        "1_4_2",
+        "1_4_3",
+        "1_4_4",
+        "1_4_5",
+        "1_4_6",
+        "1_4_7",
+        "1_4_8",
+        "1_4_9",
+        "1_4_10",
+        "1_4_11",
+        "1_4_12",
+        "1_4_13",
+        "1_4_14",
+        "1_4_15",
+        "1_4_16",
+        "1_4_17",
+        "1_4_18",
+        "1_4_19",
+        "1_4_20",
+        "1_4_21",
+        "1_4_22",
+        "1_4_23",
+        "1_4_24",
+        "1_4_25",
+        "1_4_26",
+        "1_4_27"
+      ]
+    },
+    {
+      "room_id": "1_5",
+      "name": "room_5",
+      "floor_id": "1",
+      "objects": [
+        "1_5_0",
+        "1_5_1",
+        "1_5_2",
+        "1_5_3",
+        "1_5_4",
+        "1_5_5",
+        "1_5_6",
+        "1_5_7",
+        "1_5_8",
+        "1_5_9",
+        "1_5_10",
+        "1_5_11",
+        "1_5_12",
+        "1_5_13",
+        "1_5_14",
+        "1_5_15",
+        "1_5_16",
+        "1_5_17",
+        "1_5_18",
+        "1_5_19",
+        "1_5_20",
+        "1_5_21",
+        "1_5_22",
+        "1_5_23",
+        "1_5_24",
+        "1_5_25",
+        "1_5_26",
+        "1_5_27",
+        "1_5_28",
+        "1_5_29",
+        "1_5_30",
+        "1_5_31",
+        "1_5_32",
+        "1_5_33",
+        "1_5_34",
+        "1_5_35",
+        "1_5_36",
+        "1_5_37",
+        "1_5_38",
+        "1_5_39",
+        "1_5_40",
+        "1_5_41",
+        "1_5_42",
+        "1_5_43",
+        "1_5_44",
+        "1_5_45",
+        "1_5_46",
+        "1_5_47",
+        "1_5_48",
+        "1_5_49",
+        "1_5_50",
+        "1_5_51",
+        "1_5_52",
+        "1_5_53",
+        "1_5_54",
+        "1_5_55",
+        "1_5_56",
+        "1_5_57",
+        "1_5_58",
+        "1_5_59",
+        "1_5_60"
+      ]
+    },
+    {
+      "room_id": "1_6",
+      "name": "room_6",
+      "floor_id": "1",
+      "objects": [
+        "1_6_0",
+        "1_6_1",
+        "1_6_2",
+        "1_6_3",
+        "1_6_4",
+        "1_6_5",
+        "1_6_6",
+        "1_6_7",
+        "1_6_8",
+        "1_6_9",
+        "1_6_10",
+        "1_6_11",
+        "1_6_12",
+        "1_6_13",
+        "1_6_14",
+        "1_6_15",
+        "1_6_16",
+        "1_6_17",
+        "1_6_18",
+        "1_6_19",
+        "1_6_20",
+        "1_6_21",
+        "1_6_22",
+        "1_6_23",
+        "1_6_24",
+        "1_6_25",
+        "1_6_26",
+        "1_6_27",
+        "1_6_28",
+        "1_6_29",
+        "1_6_30",
+        "1_6_31",
+        "1_6_32",
+        "1_6_33",
+        "1_6_34",
+        "1_6_35",
+        "1_6_36",
+        "1_6_37",
+        "1_6_38",
+        "1_6_39",
+        "1_6_40",
+        "1_6_41",
+        "1_6_42",
+        "1_6_43",
+        "1_6_44",
+        "1_6_45",
+        "1_6_46",
+        "1_6_47",
+        "1_6_48",
+        "1_6_49",
+        "1_6_50",
+        "1_6_51",
+        "1_6_52",
+        "1_6_53",
+        "1_6_54",
+        "1_6_55",
+        "1_6_56",
+        "1_6_57",
+        "1_6_58",
+        "1_6_59",
+        "1_6_60",
+        "1_6_61",
+        "1_6_62",
+        "1_6_63"
+      ]
+    },
+    {
+      "room_id": "1_7",
+      "name": "room_7",
+      "floor_id": "1",
+      "objects": [
+        "1_7_0",
+        "1_7_1",
+        "1_7_2",
+        "1_7_3",
+        "1_7_4",
+        "1_7_5",
+        "1_7_6",
+        "1_7_7",
+        "1_7_8",
+        "1_7_9",
+        "1_7_10",
+        "1_7_11",
+        "1_7_12",
+        "1_7_13",
+        "1_7_14",
+        "1_7_15",
+        "1_7_16",
+        "1_7_17",
+        "1_7_18",
+        "1_7_19",
+        "1_7_20",
+        "1_7_21",
+        "1_7_22",
+        "1_7_23",
+        "1_7_24",
+        "1_7_25",
+        "1_7_26",
+        "1_7_27",
+        "1_7_28",
+        "1_7_29",
+        "1_7_30",
+        "1_7_31",
+        "1_7_32",
+        "1_7_33",
+        "1_7_34",
+        "1_7_35"
+      ]
+    }
+  ],
+  "objects": [
+    {
+      "object_id": "0_0_0",
+      "room_id": "0_0",
+      "name": "floor"
+    },
+    {
+      "object_id": "0_0_1",
+      "room_id": "0_0",
+      "name": "mirror door"
+    },
+    {
+      "object_id": "0_0_10",
+      "room_id": "0_0",
+      "name": "shower wall"
+    },
+    {
+      "object_id": "0_0_11",
+      "room_id": "0_0",
+      "name": "floor /otherroom"
+    },
+    {
+      "object_id": "0_0_12",
+      "room_id": "0_0",
+      "name": "mirror door"
+    },
+    {
+      "object_id": "0_0_13",
+      "room_id": "0_0",
+      "name": "bath door frame"
+    },
+    {
+      "object_id": "0_0_2",
+      "room_id": "0_0",
+      "name": "bath door frame"
+    },
+    {
+      "object_id": "0_0_3",
+      "room_id": "0_0",
+      "name": "bath door frame"
+    },
+    {
+      "object_id": "0_0_4",
+      "room_id": "0_0",
+      "name": "ceiling floor"
+    },
+    {
+      "object_id": "0_0_5",
+      "room_id": "0_0",
+      "name": "bathtub platform"
+    },
+    {
+      "object_id": "0_0_6",
+      "room_id": "0_0",
+      "name": "bathtub platform"
+    },
+    {
+      "object_id": "0_0_7",
+      "room_id": "0_0",
+      "name": "bath floor"
+    },
+    {
+      "object_id": "0_0_8",
+      "room_id": "0_0",
+      "name": "shower step"
+    },
+    {
+      "object_id": "0_0_9",
+      "room_id": "0_0",
+      "name": "shower wall"
+    },
+    {
+      "object_id": "0_1_0",
+      "room_id": "0_1",
+      "name": "floor /otherroom"
+    },
+    {
+      "object_id": "0_1_1",
+      "room_id": "0_1",
+      "name": "window frame /otherroom"
+    },
+    {
+      "object_id": "0_1_10",
+      "room_id": "0_1",
+      "name": "drawer"
+    },
+    {
+      "object_id": "0_1_11",
+      "room_id": "0_1",
+      "name": "skirting board"
+    },
+    {
+      "object_id": "0_1_12",
+      "room_id": "0_1",
+      "name": "wall indent"
+    },
+    {
+      "object_id": "0_1_13",
+      "room_id": "0_1",
+      "name": "painting /otherroom"
+    },
+    {
+      "object_id": "0_1_14",
+      "room_id": "0_1",
+      "name": "overhang"
+    },
+    {
+      "object_id": "0_1_15",
+      "room_id": "0_1",
+      "name": "rafter"
+    },
+    {
+      "object_id": "0_1_16",
+      "room_id": "0_1",
+      "name": "ceiling/west wall"
+    },
+    {
+      "object_id": "0_1_17",
+      "room_id": "0_1",
+      "name": "wall indent"
+    },
+    {
+      "object_id": "0_1_18",
+      "room_id": "0_1",
+      "name": "wall indent"
+    },
+    {
+      "object_id": "0_1_19",
+      "room_id": "0_1",
+      "name": "stack of towels"
+    },
+    {
+      "object_id": "0_1_2",
+      "room_id": "0_1",
+      "name": "closet storage area"
+    },
+    {
+      "object_id": "0_1_20",
+      "room_id": "0_1",
+      "name": "skirting board"
+    },
+    {
+      "object_id": "0_1_21",
+      "room_id": "0_1",
+      "name": "skirting board"
+    },
+    {
+      "object_id": "0_1_22",
+      "room_id": "0_1",
+      "name": "dustpan"
+    },
+    {
+      "object_id": "0_1_23",
+      "room_id": "0_1",
+      "name": "shelf"
+    },
+    {
+      "object_id": "0_1_24",
+      "room_id": "0_1",
+      "name": "skirting board"
+    },
+    {
+      "object_id": "0_1_25",
+      "room_id": "0_1",
+      "name": "gutter"
+    },
+    {
+      "object_id": "0_1_26",
+      "room_id": "0_1",
+      "name": "duvet"
+    },
+    {
+      "object_id": "0_1_27",
+      "room_id": "0_1",
+      "name": "ceiling window"
+    },
+    {
+      "object_id": "0_1_28",
+      "room_id": "0_1",
+      "name": "bed base"
+    },
+    {
+      "object_id": "0_1_29",
+      "room_id": "0_1",
+      "name": "soft chair"
+    },
+    {
+      "object_id": "0_1_3",
+      "room_id": "0_1",
+      "name": "closet floor"
+    },
+    {
+      "object_id": "0_1_30",
+      "room_id": "0_1",
+      "name": "ceiling window"
+    },
+    {
+      "object_id": "0_1_31",
+      "room_id": "0_1",
+      "name": "window /otherroom"
+    },
+    {
+      "object_id": "0_1_32",
+      "room_id": "0_1",
+      "name": "sliding door"
+    },
+    {
+      "object_id": "0_1_33",
+      "room_id": "0_1",
+      "name": "window /otherroom"
+    },
+    {
+      "object_id": "0_1_34",
+      "room_id": "0_1",
+      "name": "ceiling window"
+    },
+    {
+      "object_id": "0_1_35",
+      "room_id": "0_1",
+      "name": "window frame /otherroom"
+    },
+    {
+      "object_id": "0_1_36",
+      "room_id": "0_1",
+      "name": "art/muscle shell"
+    },
+    {
+      "object_id": "0_1_37",
+      "room_id": "0_1",
+      "name": "floor /otherroom"
+    },
+    {
+      "object_id": "0_1_38",
+      "room_id": "0_1",
+      "name": "painting /otherroom"
+    },
+    {
+      "object_id": "0_1_39",
+      "room_id": "0_1",
+      "name": "ceiling boarder"
+    },
+    {
+      "object_id": "0_1_4",
+      "room_id": "0_1",
+      "name": "ceiling wall"
+    },
+    {
+      "object_id": "0_1_40",
+      "room_id": "0_1",
+      "name": "ceiling wall"
+    },
+    {
+      "object_id": "0_1_41",
+      "room_id": "0_1",
+      "name": "ceiling wall"
+    },
+    {
+      "object_id": "0_1_42",
+      "room_id": "0_1",
+      "name": "ceiling boarder"
+    },
+    {
+      "object_id": "0_1_43",
+      "room_id": "0_1",
+      "name": "wall beam"
+    },
+    {
+      "object_id": "0_1_44",
+      "room_id": "0_1",
+      "name": "ceiling window"
+    },
+    {
+      "object_id": "0_1_45",
+      "room_id": "0_1",
+      "name": "duvet"
+    },
+    {
+      "object_id": "0_1_46",
+      "room_id": "0_1",
+      "name": "floor"
+    },
+    {
+      "object_id": "0_1_47",
+      "room_id": "0_1",
+      "name": "bedpost"
+    },
+    {
+      "object_id": "0_1_48",
+      "room_id": "0_1",
+      "name": "boiler"
+    },
+    {
+      "object_id": "0_1_49",
+      "room_id": "0_1",
+      "name": "bedpost"
+    },
+    {
+      "object_id": "0_1_5",
+      "room_id": "0_1",
+      "name": "floor /otherroom"
+    },
+    {
+      "object_id": "0_1_50",
+      "room_id": "0_1",
+      "name": "painting /otherroom"
+    },
+    {
+      "object_id": "0_1_51",
+      "room_id": "0_1",
+      "name": "floor"
+    },
+    {
+      "object_id": "0_1_52",
+      "room_id": "0_1",
+      "name": "bed small"
+    },
+    {
+      "object_id": "0_1_53",
+      "room_id": "0_1",
+      "name": "floor /otherroom"
+    },
+    {
+      "object_id": "0_1_54",
+      "room_id": "0_1",
+      "name": "skylight"
+    },
+    {
+      "object_id": "0_1_55",
+      "room_id": "0_1",
+      "name": "duvet"
+    },
+    {
+      "object_id": "0_1_56",
+      "room_id": "0_1",
+      "name": "bed base"
+    },
+    {
+      "object_id": "0_1_57",
+      "room_id": "0_1",
+      "name": "painting /otherroom"
+    },
+    {
+      "object_id": "0_1_6",
+      "room_id": "0_1",
+      "name": "drywall board"
+    },
+    {
+      "object_id": "0_1_7",
+      "room_id": "0_1",
+      "name": "ceiling wall"
+    },
+    {
+      "object_id": "0_1_8",
+      "room_id": "0_1",
+      "name": "skirting board"
+    },
+    {
+      "object_id": "0_1_9",
+      "room_id": "0_1",
+      "name": "skirting board"
+    },
+    {
+      "object_id": "0_2_0",
+      "room_id": "0_2",
+      "name": "sliding glass door"
+    },
+    {
+      "object_id": "0_2_1",
+      "room_id": "0_2",
+      "name": "pillow seat"
+    },
+    {
+      "object_id": "0_2_10",
+      "room_id": "0_2",
+      "name": "ceiling support"
+    },
+    {
+      "object_id": "0_2_11",
+      "room_id": "0_2",
+      "name": "couch"
+    },
+    {
+      "object_id": "0_2_12",
+      "room_id": "0_2",
+      "name": "recessed wall"
+    },
+    {
+      "object_id": "0_2_13",
+      "room_id": "0_2",
+      "name": "title"
+    },
+    {
+      "object_id": "0_2_14",
+      "room_id": "0_2",
+      "name": "couch"
+    },
+    {
+      "object_id": "0_2_15",
+      "room_id": "0_2",
+      "name": "sliding door"
+    },
+    {
+      "object_id": "0_2_16",
+      "room_id": "0_2",
+      "name": "recessed wall"
+    },
+    {
+      "object_id": "0_2_17",
+      "room_id": "0_2",
+      "name": "floor"
+    },
+    {
+      "object_id": "0_2_18",
+      "room_id": "0_2",
+      "name": "floor vent"
+    },
+    {
+      "object_id": "0_2_19",
+      "room_id": "0_2",
+      "name": "backrest"
+    },
+    {
+      "object_id": "0_2_2",
+      "room_id": "0_2",
+      "name": "couch"
+    },
+    {
+      "object_id": "0_2_20",
+      "room_id": "0_2",
+      "name": "floor vent"
+    },
+    {
+      "object_id": "0_2_21",
+      "room_id": "0_2",
+      "name": "ceiling window"
+    },
+    {
+      "object_id": "0_2_22",
+      "room_id": "0_2",
+      "name": "recessed wall"
+    },
+    {
+      "object_id": "0_2_23",
+      "room_id": "0_2",
+      "name": "painting /otherroom"
+    },
+    {
+      "object_id": "0_2_24",
+      "room_id": "0_2",
+      "name": "recessed wall"
+    },
+    {
+      "object_id": "0_2_25",
+      "room_id": "0_2",
+      "name": "skylight"
+    },
+    {
+      "object_id": "0_2_26",
+      "room_id": "0_2",
+      "name": "floor vent"
+    },
+    {
+      "object_id": "0_2_27",
+      "room_id": "0_2",
+      "name": "ceiling/west wall"
+    },
+    {
+      "object_id": "0_2_28",
+      "room_id": "0_2",
+      "name": "ceiling boarder"
+    },
+    {
+      "object_id": "0_2_29",
+      "room_id": "0_2",
+      "name": "stairs railing"
+    },
+    {
+      "object_id": "0_2_3",
+      "room_id": "0_2",
+      "name": "recessed wall"
+    },
+    {
+      "object_id": "0_2_30",
+      "room_id": "0_2",
+      "name": "ceiling chassis"
+    },
+    {
+      "object_id": "0_2_31",
+      "room_id": "0_2",
+      "name": "stair frame"
+    },
+    {
+      "object_id": "0_2_32",
+      "room_id": "0_2",
+      "name": "ceiling support"
+    },
+    {
+      "object_id": "0_2_33",
+      "room_id": "0_2",
+      "name": "floor"
+    },
+    {
+      "object_id": "0_2_34",
+      "room_id": "0_2",
+      "name": "wall tv"
+    },
+    {
+      "object_id": "0_2_35",
+      "room_id": "0_2",
+      "name": "glass door"
+    },
+    {
+      "object_id": "0_2_36",
+      "room_id": "0_2",
+      "name": "footstool"
+    },
+    {
+      "object_id": "0_2_37",
+      "room_id": "0_2",
+      "name": "recessed wall"
+    },
+    {
+      "object_id": "0_2_38",
+      "room_id": "0_2",
+      "name": "wall post"
+    },
+    {
+      "object_id": "0_2_39",
+      "room_id": "0_2",
+      "name": "overhang"
+    },
+    {
+      "object_id": "0_2_4",
+      "room_id": "0_2",
+      "name": "couch"
+    },
+    {
+      "object_id": "0_2_40",
+      "room_id": "0_2",
+      "name": "plank"
+    },
+    {
+      "object_id": "0_2_41",
+      "room_id": "0_2",
+      "name": "stairs trim"
+    },
+    {
+      "object_id": "0_2_42",
+      "room_id": "0_2",
+      "name": "floor"
+    },
+    {
+      "object_id": "0_2_43",
+      "room_id": "0_2",
+      "name": "chaise longue"
+    },
+    {
+      "object_id": "0_2_44",
+      "room_id": "0_2",
+      "name": "overhang"
+    },
+    {
+      "object_id": "0_2_45",
+      "room_id": "0_2",
+      "name": "stairs trim"
+    },
+    {
+      "object_id": "0_2_46",
+      "room_id": "0_2",
+      "name": "stairs wall"
+    },
+    {
+      "object_id": "0_2_47",
+      "room_id": "0_2",
+      "name": "bottom of stairs"
+    },
+    {
+      "object_id": "0_2_48",
+      "room_id": "0_2",
+      "name": "stair frame"
+    },
+    {
+      "object_id": "0_2_49",
+      "room_id": "0_2",
+      "name": "ceiling/west wall"
+    },
+    {
+      "object_id": "0_2_5",
+      "room_id": "0_2",
+      "name": "recessed wall"
+    },
+    {
+      "object_id": "0_2_50",
+      "room_id": "0_2",
+      "name": "spa armchair"
+    },
+    {
+      "object_id": "0_2_51",
+      "room_id": "0_2",
+      "name": "sliding glass door"
+    },
+    {
+      "object_id": "0_2_52",
+      "room_id": "0_2",
+      "name": "ceiling window"
+    },
+    {
+      "object_id": "0_2_53",
+      "room_id": "0_2",
+      "name": "title"
+    },
+    {
+      "object_id": "0_2_54",
+      "room_id": "0_2",
+      "name": "footrest"
+    },
+    {
+      "object_id": "0_2_55",
+      "room_id": "0_2",
+      "name": "recessed wall"
+    },
+    {
+      "object_id": "0_2_56",
+      "room_id": "0_2",
+      "name": "ceiling support"
+    },
+    {
+      "object_id": "0_2_57",
+      "room_id": "0_2",
+      "name": "couch"
+    },
+    {
+      "object_id": "0_2_58",
+      "room_id": "0_2",
+      "name": "couch"
+    },
+    {
+      "object_id": "0_2_59",
+      "room_id": "0_2",
+      "name": "recessed wall"
+    },
+    {
+      "object_id": "0_2_6",
+      "room_id": "0_2",
+      "name": "ceiling/west wall"
+    },
+    {
+      "object_id": "0_2_60",
+      "room_id": "0_2",
+      "name": "window frame /otherroom"
+    },
+    {
+      "object_id": "0_2_61",
+      "room_id": "0_2",
+      "name": "stair frame"
+    },
+    {
+      "object_id": "0_2_62",
+      "room_id": "0_2",
+      "name": "stairs wall"
+    },
+    {
+      "object_id": "0_2_63",
+      "room_id": "0_2",
+      "name": "plank"
+    },
+    {
+      "object_id": "0_2_64",
+      "room_id": "0_2",
+      "name": "stair"
+    },
+    {
+      "object_id": "0_2_65",
+      "room_id": "0_2",
+      "name": "overhang"
+    },
+    {
+      "object_id": "0_2_66",
+      "room_id": "0_2",
+      "name": "recessed wall"
+    },
+    {
+      "object_id": "0_2_67",
+      "room_id": "0_2",
+      "name": "ceiling wall"
+    },
+    {
+      "object_id": "0_2_68",
+      "room_id": "0_2",
+      "name": "stair handle"
+    },
+    {
+      "object_id": "0_2_69",
+      "room_id": "0_2",
+      "name": "stairwell"
+    },
+    {
+      "object_id": "0_2_7",
+      "room_id": "0_2",
+      "name": "couch"
+    },
+    {
+      "object_id": "0_2_70",
+      "room_id": "0_2",
+      "name": "stairs trim"
+    },
+    {
+      "object_id": "0_2_71",
+      "room_id": "0_2",
+      "name": "stairs trim"
+    },
+    {
+      "object_id": "0_2_72",
+      "room_id": "0_2",
+      "name": "bottom of stairs"
+    },
+    {
+      "object_id": "0_2_73",
+      "room_id": "0_2",
+      "name": "stair frame"
+    },
+    {
+      "object_id": "0_2_74",
+      "room_id": "0_2",
+      "name": "floor"
+    },
+    {
+      "object_id": "0_2_75",
+      "room_id": "0_2",
+      "name": "floor"
+    },
+    {
+      "object_id": "0_2_76",
+      "room_id": "0_2",
+      "name": "stair frame"
+    },
+    {
+      "object_id": "0_2_77",
+      "room_id": "0_2",
+      "name": "bust"
+    },
+    {
+      "object_id": "0_2_78",
+      "room_id": "0_2",
+      "name": "ceiling support"
+    },
+    {
+      "object_id": "0_2_79",
+      "room_id": "0_2",
+      "name": "ceiling window"
+    },
+    {
+      "object_id": "0_2_8",
+      "room_id": "0_2",
+      "name": "glass pane"
+    },
+    {
+      "object_id": "0_2_80",
+      "room_id": "0_2",
+      "name": "floor"
+    },
+    {
+      "object_id": "0_2_81",
+      "room_id": "0_2",
+      "name": "stairs skirt"
+    },
+    {
+      "object_id": "0_2_82",
+      "room_id": "0_2",
+      "name": "wall beam"
+    },
+    {
+      "object_id": "0_2_83",
+      "room_id": "0_2",
+      "name": "chaise longue"
+    },
+    {
+      "object_id": "0_2_84",
+      "room_id": "0_2",
+      "name": "banister"
+    },
+    {
+      "object_id": "0_2_85",
+      "room_id": "0_2",
+      "name": "window frame /otherroom"
+    },
+    {
+      "object_id": "0_2_9",
+      "room_id": "0_2",
+      "name": "couch"
+    },
+    {
+      "object_id": "0_3_0",
+      "room_id": "0_3",
+      "name": "stair"
+    },
+    {
+      "object_id": "0_3_1",
+      "room_id": "0_3",
+      "name": "wall indent"
+    },
+    {
+      "object_id": "0_3_10",
+      "room_id": "0_3",
+      "name": "radiator"
+    },
+    {
+      "object_id": "0_3_11",
+      "room_id": "0_3",
+      "name": "wall toilet paper"
+    },
+    {
+      "object_id": "0_3_12",
+      "room_id": "0_3",
+      "name": "skirting board"
+    },
+    {
+      "object_id": "0_3_13",
+      "room_id": "0_3",
+      "name": "bath bar"
+    },
+    {
+      "object_id": "0_3_14",
+      "room_id": "0_3",
+      "name": "recessed wall"
+    },
+    {
+      "object_id": "0_3_15",
+      "room_id": "0_3",
+      "name": "plant"
+    },
+    {
+      "object_id": "0_3_16",
+      "room_id": "0_3",
+      "name": "skirting board"
+    },
+    {
+      "object_id": "0_3_17",
+      "room_id": "0_3",
+      "name": "bath door frame"
+    },
+    {
+      "object_id": "0_3_18",
+      "room_id": "0_3",
+      "name": "bathtub platform"
+    },
+    {
+      "object_id": "0_3_19",
+      "room_id": "0_3",
+      "name": "wall indent"
+    },
+    {
+      "object_id": "0_3_2",
+      "room_id": "0_3",
+      "name": "drywall board"
+    },
+    {
+      "object_id": "0_3_20",
+      "room_id": "0_3",
+      "name": "drywall board"
+    },
+    {
+      "object_id": "0_3_21",
+      "room_id": "0_3",
+      "name": "cardboard"
+    },
+    {
+      "object_id": "0_3_22",
+      "room_id": "0_3",
+      "name": "cardboard"
+    },
+    {
+      "object_id": "0_3_23",
+      "room_id": "0_3",
+      "name": "recessed wall"
+    },
+    {
+      "object_id": "0_3_3",
+      "room_id": "0_3",
+      "name": "wall indent"
+    },
+    {
+      "object_id": "0_3_4",
+      "room_id": "0_3",
+      "name": "drywall board"
+    },
+    {
+      "object_id": "0_3_5",
+      "room_id": "0_3",
+      "name": "drywall board"
+    },
+    {
+      "object_id": "0_3_6",
+      "room_id": "0_3",
+      "name": "drywall board"
+    },
+    {
+      "object_id": "0_3_7",
+      "room_id": "0_3",
+      "name": "closet floor"
+    },
+    {
+      "object_id": "0_3_8",
+      "room_id": "0_3",
+      "name": "wall indent"
+    },
+    {
+      "object_id": "0_3_9",
+      "room_id": "0_3",
+      "name": "shower ceiling"
+    },
+    {
+      "object_id": "0_4_0",
+      "room_id": "0_4",
+      "name": "shower ceiling"
+    },
+    {
+      "object_id": "0_4_1",
+      "room_id": "0_4",
+      "name": "bathroom floor"
+    },
+    {
+      "object_id": "0_4_10",
+      "room_id": "0_4",
+      "name": "ceiling/west wall"
+    },
+    {
+      "object_id": "0_4_11",
+      "room_id": "0_4",
+      "name": "shower ceiling"
+    },
+    {
+      "object_id": "0_4_12",
+      "room_id": "0_4",
+      "name": "bust"
+    },
+    {
+      "object_id": "0_4_13",
+      "room_id": "0_4",
+      "name": "stack of stuff"
+    },
+    {
+      "object_id": "0_4_14",
+      "room_id": "0_4",
+      "name": "closet floor"
+    },
+    {
+      "object_id": "0_4_15",
+      "room_id": "0_4",
+      "name": "hunting trophy"
+    },
+    {
+      "object_id": "0_4_16",
+      "room_id": "0_4",
+      "name": "closet floor"
+    },
+    {
+      "object_id": "0_4_17",
+      "room_id": "0_4",
+      "name": "stack of stuff"
+    },
+    {
+      "object_id": "0_4_18",
+      "room_id": "0_4",
+      "name": "hunting trophy"
+    },
+    {
+      "object_id": "0_4_19",
+      "room_id": "0_4",
+      "name": "wall indent"
+    },
+    {
+      "object_id": "0_4_2",
+      "room_id": "0_4",
+      "name": "toilet seat"
+    },
+    {
+      "object_id": "0_4_20",
+      "room_id": "0_4",
+      "name": "hunting trophy"
+    },
+    {
+      "object_id": "0_4_21",
+      "room_id": "0_4",
+      "name": "stack of stuff"
+    },
+    {
+      "object_id": "0_4_22",
+      "room_id": "0_4",
+      "name": "bottle"
+    },
+    {
+      "object_id": "0_4_23",
+      "room_id": "0_4",
+      "name": "banner"
+    },
+    {
+      "object_id": "0_4_24",
+      "room_id": "0_4",
+      "name": "hunting trophy"
+    },
+    {
+      "object_id": "0_4_25",
+      "room_id": "0_4",
+      "name": "knife"
+    },
+    {
+      "object_id": "0_4_26",
+      "room_id": "0_4",
+      "name": "wall beam"
+    },
+    {
+      "object_id": "0_4_27",
+      "room_id": "0_4",
+      "name": "skylight"
+    },
+    {
+      "object_id": "0_4_28",
+      "room_id": "0_4",
+      "name": "ledge"
+    },
+    {
+      "object_id": "0_4_29",
+      "room_id": "0_4",
+      "name": "cardboard"
+    },
+    {
+      "object_id": "0_4_3",
+      "room_id": "0_4",
+      "name": "wall toilet paper"
+    },
+    {
+      "object_id": "0_4_30",
+      "room_id": "0_4",
+      "name": "window frame /otherroom"
+    },
+    {
+      "object_id": "0_4_31",
+      "room_id": "0_4",
+      "name": "overhang"
+    },
+    {
+      "object_id": "0_4_32",
+      "room_id": "0_4",
+      "name": "gutter"
+    },
+    {
+      "object_id": "0_4_33",
+      "room_id": "0_4",
+      "name": "cornice"
+    },
+    {
+      "object_id": "0_4_34",
+      "room_id": "0_4",
+      "name": "art/statue"
+    },
+    {
+      "object_id": "0_4_35",
+      "room_id": "0_4",
+      "name": "window valence"
+    },
+    {
+      "object_id": "0_4_36",
+      "room_id": "0_4",
+      "name": "cardboard"
+    },
+    {
+      "object_id": "0_4_37",
+      "room_id": "0_4",
+      "name": "package"
+    },
+    {
+      "object_id": "0_4_38",
+      "room_id": "0_4",
+      "name": "cardboard"
+    },
+    {
+      "object_id": "0_4_39",
+      "room_id": "0_4",
+      "name": "gutter"
+    },
+    {
+      "object_id": "0_4_4",
+      "room_id": "0_4",
+      "name": "handle"
+    },
+    {
+      "object_id": "0_4_40",
+      "room_id": "0_4",
+      "name": "cornice"
+    },
+    {
+      "object_id": "0_4_41",
+      "room_id": "0_4",
+      "name": "tissue"
+    },
+    {
+      "object_id": "0_4_42",
+      "room_id": "0_4",
+      "name": "dustpan"
+    },
+    {
+      "object_id": "0_4_43",
+      "room_id": "0_4",
+      "name": "cornice"
+    },
+    {
+      "object_id": "0_4_44",
+      "room_id": "0_4",
+      "name": "dustpan"
+    },
+    {
+      "object_id": "0_4_45",
+      "room_id": "0_4",
+      "name": "cardboard"
+    },
+    {
+      "object_id": "0_4_46",
+      "room_id": "0_4",
+      "name": "skirting board"
+    },
+    {
+      "object_id": "0_4_47",
+      "room_id": "0_4",
+      "name": "chest"
+    },
+    {
+      "object_id": "0_4_48",
+      "room_id": "0_4",
+      "name": "rafter"
+    },
+    {
+      "object_id": "0_4_49",
+      "room_id": "0_4",
+      "name": "skirting board"
+    },
+    {
+      "object_id": "0_4_5",
+      "room_id": "0_4",
+      "name": "wall toilet paper"
+    },
+    {
+      "object_id": "0_4_50",
+      "room_id": "0_4",
+      "name": "closet floor"
+    },
+    {
+      "object_id": "0_4_6",
+      "room_id": "0_4",
+      "name": "shower ceiling"
+    },
+    {
+      "object_id": "0_4_7",
+      "room_id": "0_4",
+      "name": "wall indent"
+    },
+    {
+      "object_id": "0_4_8",
+      "room_id": "0_4",
+      "name": "shower ceiling"
+    },
+    {
+      "object_id": "0_4_9",
+      "room_id": "0_4",
+      "name": "shower ceiling"
+    },
+    {
+      "object_id": "0_5_0",
+      "room_id": "0_5",
+      "name": "recessed wall"
+    },
+    {
+      "object_id": "0_5_1",
+      "room_id": "0_5",
+      "name": "stone support structure"
+    },
+    {
+      "object_id": "0_5_10",
+      "room_id": "0_5",
+      "name": "recessed wall"
+    },
+    {
+      "object_id": "0_5_100",
+      "room_id": "0_5",
+      "name": "drywall board"
+    },
+    {
+      "object_id": "0_5_101",
+      "room_id": "0_5",
+      "name": "wall"
+    },
+    {
+      "object_id": "0_5_102",
+      "room_id": "0_5",
+      "name": "wall indent"
+    },
+    {
+      "object_id": "0_5_103",
+      "room_id": "0_5",
+      "name": "wall indent"
+    },
+    {
+      "object_id": "0_5_104",
+      "room_id": "0_5",
+      "name": "closet floor"
+    },
+    {
+      "object_id": "0_5_105",
+      "room_id": "0_5",
+      "name": "stack of stuff"
+    },
+    {
+      "object_id": "0_5_106",
+      "room_id": "0_5",
+      "name": "stack of clothes"
+    },
+    {
+      "object_id": "0_5_107",
+      "room_id": "0_5",
+      "name": "stack of stuff"
+    },
+    {
+      "object_id": "0_5_108",
+      "room_id": "0_5",
+      "name": "doorpost"
+    },
+    {
+      "object_id": "0_5_109",
+      "room_id": "0_5",
+      "name": "stack of jackets"
+    },
+    {
+      "object_id": "0_5_11",
+      "room_id": "0_5",
+      "name": "recessed wall"
+    },
+    {
+      "object_id": "0_5_110",
+      "room_id": "0_5",
+      "name": "banner"
+    },
+    {
+      "object_id": "0_5_111",
+      "room_id": "0_5",
+      "name": "closet floor"
+    },
+    {
+      "object_id": "0_5_112",
+      "room_id": "0_5",
+      "name": "shelf"
+    },
+    {
+      "object_id": "0_5_113",
+      "room_id": "0_5",
+      "name": "stack of clothes"
+    },
+    {
+      "object_id": "0_5_114",
+      "room_id": "0_5",
+      "name": "drawer"
+    },
+    {
+      "object_id": "0_5_115",
+      "room_id": "0_5",
+      "name": "statue"
+    },
+    {
+      "object_id": "0_5_116",
+      "room_id": "0_5",
+      "name": "banner"
+    },
+    {
+      "object_id": "0_5_117",
+      "room_id": "0_5",
+      "name": "bag with something"
+    },
+    {
+      "object_id": "0_5_118",
+      "room_id": "0_5",
+      "name": "stack of stuff"
+    },
+    {
+      "object_id": "0_5_119",
+      "room_id": "0_5",
+      "name": "stack of clothes"
+    },
+    {
+      "object_id": "0_5_12",
+      "room_id": "0_5",
+      "name": "recessed wall"
+    },
+    {
+      "object_id": "0_5_120",
+      "room_id": "0_5",
+      "name": "banner"
+    },
+    {
+      "object_id": "0_5_121",
+      "room_id": "0_5",
+      "name": "wall indent"
+    },
+    {
+      "object_id": "0_5_122",
+      "room_id": "0_5",
+      "name": "wall indent"
+    },
+    {
+      "object_id": "0_5_123",
+      "room_id": "0_5",
+      "name": "wall indent"
+    },
+    {
+      "object_id": "0_5_124",
+      "room_id": "0_5",
+      "name": "wall indent"
+    },
+    {
+      "object_id": "0_5_125",
+      "room_id": "0_5",
+      "name": "ceiling wall"
+    },
+    {
+      "object_id": "0_5_126",
+      "room_id": "0_5",
+      "name": "ceiling boarder"
+    },
+    {
+      "object_id": "0_5_127",
+      "room_id": "0_5",
+      "name": "ceiling wall"
+    },
+    {
+      "object_id": "0_5_128",
+      "room_id": "0_5",
+      "name": "recessed wall"
+    },
+    {
+      "object_id": "0_5_129",
+      "room_id": "0_5",
+      "name": "ceiling wall"
+    },
+    {
+      "object_id": "0_5_13",
+      "room_id": "0_5",
+      "name": "mirror /otherroom"
+    },
+    {
+      "object_id": "0_5_130",
+      "room_id": "0_5",
+      "name": "wall indent"
+    },
+    {
+      "object_id": "0_5_131",
+      "room_id": "0_5",
+      "name": "recessed wall"
+    },
+    {
+      "object_id": "0_5_132",
+      "room_id": "0_5",
+      "name": "wall indent"
+    },
+    {
+      "object_id": "0_5_133",
+      "room_id": "0_5",
+      "name": "recessed wall"
+    },
+    {
+      "object_id": "0_5_134",
+      "room_id": "0_5",
+      "name": "recessed wall"
+    },
+    {
+      "object_id": "0_5_135",
+      "room_id": "0_5",
+      "name": "folded chair"
+    },
+    {
+      "object_id": "0_5_136",
+      "room_id": "0_5",
+      "name": "recessed wall"
+    },
+    {
+      "object_id": "0_5_137",
+      "room_id": "0_5",
+      "name": "cardboard"
+    },
+    {
+      "object_id": "0_5_14",
+      "room_id": "0_5",
+      "name": "vase"
+    },
+    {
+      "object_id": "0_5_15",
+      "room_id": "0_5",
+      "name": "plank"
+    },
+    {
+      "object_id": "0_5_16",
+      "room_id": "0_5",
+      "name": "wall panel"
+    },
+    {
+      "object_id": "0_5_17",
+      "room_id": "0_5",
+      "name": "cardboard"
+    },
+    {
+      "object_id": "0_5_18",
+      "room_id": "0_5",
+      "name": "recessed wall"
+    },
+    {
+      "object_id": "0_5_19",
+      "room_id": "0_5",
+      "name": "floor"
+    },
+    {
+      "object_id": "0_5_2",
+      "room_id": "0_5",
+      "name": "recessed wall"
+    },
+    {
+      "object_id": "0_5_20",
+      "room_id": "0_5",
+      "name": "mirror /otherroom"
+    },
+    {
+      "object_id": "0_5_21",
+      "room_id": "0_5",
+      "name": "window frame /otherroom"
+    },
+    {
+      "object_id": "0_5_22",
+      "room_id": "0_5",
+      "name": "recessed wall"
+    },
+    {
+      "object_id": "0_5_23",
+      "room_id": "0_5",
+      "name": "floor"
+    },
+    {
+      "object_id": "0_5_24",
+      "room_id": "0_5",
+      "name": "skirting board"
+    },
+    {
+      "object_id": "0_5_25",
+      "room_id": "0_5",
+      "name": "cardboard"
+    },
+    {
+      "object_id": "0_5_26",
+      "room_id": "0_5",
+      "name": "floor"
+    },
+    {
+      "object_id": "0_5_27",
+      "room_id": "0_5",
+      "name": "kitchen counter support"
+    },
+    {
+      "object_id": "0_5_28",
+      "room_id": "0_5",
+      "name": "recessed wall"
+    },
+    {
+      "object_id": "0_5_29",
+      "room_id": "0_5",
+      "name": "sliding glass door"
+    },
+    {
+      "object_id": "0_5_3",
+      "room_id": "0_5",
+      "name": "ceiling wall"
+    },
+    {
+      "object_id": "0_5_30",
+      "room_id": "0_5",
+      "name": "floor"
+    },
+    {
+      "object_id": "0_5_31",
+      "room_id": "0_5",
+      "name": "kitchen extractor"
+    },
+    {
+      "object_id": "0_5_32",
+      "room_id": "0_5",
+      "name": "recessed wall"
+    },
+    {
+      "object_id": "0_5_33",
+      "room_id": "0_5",
+      "name": "countertop /otherroom"
+    },
+    {
+      "object_id": "0_5_34",
+      "room_id": "0_5",
+      "name": "sliding door"
+    },
+    {
+      "object_id": "0_5_35",
+      "room_id": "0_5",
+      "name": "recessed wall"
+    },
+    {
+      "object_id": "0_5_36",
+      "room_id": "0_5",
+      "name": "countertop /otherroom"
+    },
+    {
+      "object_id": "0_5_37",
+      "room_id": "0_5",
+      "name": "boat model"
+    },
+    {
+      "object_id": "0_5_38",
+      "room_id": "0_5",
+      "name": "countertop /otherroom"
+    },
+    {
+      "object_id": "0_5_39",
+      "room_id": "0_5",
+      "name": "countertop /otherroom"
+    },
+    {
+      "object_id": "0_5_4",
+      "room_id": "0_5",
+      "name": "recessed wall"
+    },
+    {
+      "object_id": "0_5_40",
+      "room_id": "0_5",
+      "name": "painting /otherroom"
+    },
+    {
+      "object_id": "0_5_41",
+      "room_id": "0_5",
+      "name": "kitchen wall"
+    },
+    {
+      "object_id": "0_5_42",
+      "room_id": "0_5",
+      "name": "recessed wall"
+    },
+    {
+      "object_id": "0_5_43",
+      "room_id": "0_5",
+      "name": "recessed wall"
+    },
+    {
+      "object_id": "0_5_44",
+      "room_id": "0_5",
+      "name": "recessed wall"
+    },
+    {
+      "object_id": "0_5_45",
+      "room_id": "0_5",
+      "name": "floor"
+    },
+    {
+      "object_id": "0_5_46",
+      "room_id": "0_5",
+      "name": "kitchen counter support"
+    },
+    {
+      "object_id": "0_5_47",
+      "room_id": "0_5",
+      "name": "wall indent"
+    },
+    {
+      "object_id": "0_5_48",
+      "room_id": "0_5",
+      "name": "stone support structure"
+    },
+    {
+      "object_id": "0_5_49",
+      "room_id": "0_5",
+      "name": "ceiling wall"
+    },
+    {
+      "object_id": "0_5_5",
+      "room_id": "0_5",
+      "name": "stone support structure"
+    },
+    {
+      "object_id": "0_5_50",
+      "room_id": "0_5",
+      "name": "stone support structure"
+    },
+    {
+      "object_id": "0_5_51",
+      "room_id": "0_5",
+      "name": "recessed wall"
+    },
+    {
+      "object_id": "0_5_52",
+      "room_id": "0_5",
+      "name": "recessed wall"
+    },
+    {
+      "object_id": "0_5_53",
+      "room_id": "0_5",
+      "name": "tile"
+    },
+    {
+      "object_id": "0_5_54",
+      "room_id": "0_5",
+      "name": "recessed wall"
+    },
+    {
+      "object_id": "0_5_55",
+      "room_id": "0_5",
+      "name": "tile"
+    },
+    {
+      "object_id": "0_5_56",
+      "room_id": "0_5",
+      "name": "tile"
+    },
+    {
+      "object_id": "0_5_57",
+      "room_id": "0_5",
+      "name": "recessed wall"
+    },
+    {
+      "object_id": "0_5_58",
+      "room_id": "0_5",
+      "name": "sliding door"
+    },
+    {
+      "object_id": "0_5_59",
+      "room_id": "0_5",
+      "name": "kitchen extractor"
+    },
+    {
+      "object_id": "0_5_6",
+      "room_id": "0_5",
+      "name": "stair"
+    },
+    {
+      "object_id": "0_5_60",
+      "room_id": "0_5",
+      "name": "floor"
+    },
+    {
+      "object_id": "0_5_61",
+      "room_id": "0_5",
+      "name": "recessed wall"
+    },
+    {
+      "object_id": "0_5_62",
+      "room_id": "0_5",
+      "name": "recessed wall"
+    },
+    {
+      "object_id": "0_5_63",
+      "room_id": "0_5",
+      "name": "skirting board"
+    },
+    {
+      "object_id": "0_5_64",
+      "room_id": "0_5",
+      "name": "folded chair"
+    },
+    {
+      "object_id": "0_5_65",
+      "room_id": "0_5",
+      "name": "stack of chairs"
+    },
+    {
+      "object_id": "0_5_66",
+      "room_id": "0_5",
+      "name": "folded table"
+    },
+    {
+      "object_id": "0_5_67",
+      "room_id": "0_5",
+      "name": "floor"
+    },
+    {
+      "object_id": "0_5_68",
+      "room_id": "0_5",
+      "name": "folded table"
+    },
+    {
+      "object_id": "0_5_69",
+      "room_id": "0_5",
+      "name": "floor"
+    },
+    {
+      "object_id": "0_5_7",
+      "room_id": "0_5",
+      "name": "wall beam"
+    },
+    {
+      "object_id": "0_5_70",
+      "room_id": "0_5",
+      "name": "floor"
+    },
+    {
+      "object_id": "0_5_71",
+      "room_id": "0_5",
+      "name": "floor"
+    },
+    {
+      "object_id": "0_5_72",
+      "room_id": "0_5",
+      "name": "ceiling wall"
+    },
+    {
+      "object_id": "0_5_73",
+      "room_id": "0_5",
+      "name": "painting /otherroom"
+    },
+    {
+      "object_id": "0_5_74",
+      "room_id": "0_5",
+      "name": "recessed wall"
+    },
+    {
+      "object_id": "0_5_75",
+      "room_id": "0_5",
+      "name": "recessed wall"
+    },
+    {
+      "object_id": "0_5_76",
+      "room_id": "0_5",
+      "name": "ceiling wall"
+    },
+    {
+      "object_id": "0_5_77",
+      "room_id": "0_5",
+      "name": "recessed wall"
+    },
+    {
+      "object_id": "0_5_78",
+      "room_id": "0_5",
+      "name": "recessed wall"
+    },
+    {
+      "object_id": "0_5_79",
+      "room_id": "0_5",
+      "name": "partial"
+    },
+    {
+      "object_id": "0_5_8",
+      "room_id": "0_5",
+      "name": "partial"
+    },
+    {
+      "object_id": "0_5_80",
+      "room_id": "0_5",
+      "name": "plank"
+    },
+    {
+      "object_id": "0_5_81",
+      "room_id": "0_5",
+      "name": "wine storage"
+    },
+    {
+      "object_id": "0_5_82",
+      "room_id": "0_5",
+      "name": "folded chair"
+    },
+    {
+      "object_id": "0_5_83",
+      "room_id": "0_5",
+      "name": "ceiling wall"
+    },
+    {
+      "object_id": "0_5_84",
+      "room_id": "0_5",
+      "name": "mirror /otherroom"
+    },
+    {
+      "object_id": "0_5_85",
+      "room_id": "0_5",
+      "name": "floor"
+    },
+    {
+      "object_id": "0_5_86",
+      "room_id": "0_5",
+      "name": "recessed wall"
+    },
+    {
+      "object_id": "0_5_87",
+      "room_id": "0_5",
+      "name": "ceiling wall"
+    },
+    {
+      "object_id": "0_5_88",
+      "room_id": "0_5",
+      "name": "ceiling wall"
+    },
+    {
+      "object_id": "0_5_89",
+      "room_id": "0_5",
+      "name": "recessed wall"
+    },
+    {
+      "object_id": "0_5_9",
+      "room_id": "0_5",
+      "name": "wall beam"
+    },
+    {
+      "object_id": "0_5_90",
+      "room_id": "0_5",
+      "name": "recessed wall"
+    },
+    {
+      "object_id": "0_5_91",
+      "room_id": "0_5",
+      "name": "recessed wall"
+    },
+    {
+      "object_id": "0_5_92",
+      "room_id": "0_5",
+      "name": "door frame"
+    },
+    {
+      "object_id": "0_5_93",
+      "room_id": "0_5",
+      "name": "door frame"
+    },
+    {
+      "object_id": "0_5_94",
+      "room_id": "0_5",
+      "name": "door frame"
+    },
+    {
+      "object_id": "0_5_95",
+      "room_id": "0_5",
+      "name": "shower ceiling"
+    },
+    {
+      "object_id": "0_5_96",
+      "room_id": "0_5",
+      "name": "wall indent"
+    },
+    {
+      "object_id": "0_5_97",
+      "room_id": "0_5",
+      "name": "wall indent"
+    },
+    {
+      "object_id": "0_5_98",
+      "room_id": "0_5",
+      "name": "recessed wall"
+    },
+    {
+      "object_id": "0_5_99",
+      "room_id": "0_5",
+      "name": "floor"
+    },
+    {
+      "object_id": "1_0_0",
+      "room_id": "1_0",
+      "name": "closet mirror wall"
+    },
+    {
+      "object_id": "1_0_1",
+      "room_id": "1_0",
+      "name": "doorpost"
+    },
+    {
+      "object_id": "1_0_10",
+      "room_id": "1_0",
+      "name": "cloth holder"
+    },
+    {
+      "object_id": "1_0_11",
+      "room_id": "1_0",
+      "name": "closet shelf"
+    },
+    {
+      "object_id": "1_0_12",
+      "room_id": "1_0",
+      "name": "closet floor"
+    },
+    {
+      "object_id": "1_0_13",
+      "room_id": "1_0",
+      "name": "closet shelf"
+    },
+    {
+      "object_id": "1_0_14",
+      "room_id": "1_0",
+      "name": "closet floor"
+    },
+    {
+      "object_id": "1_0_15",
+      "room_id": "1_0",
+      "name": "skirting board"
+    },
+    {
+      "object_id": "1_0_16",
+      "room_id": "1_0",
+      "name": "stairs skirt"
+    },
+    {
+      "object_id": "1_0_17",
+      "room_id": "1_0",
+      "name": "closet shelf"
+    },
+    {
+      "object_id": "1_0_18",
+      "room_id": "1_0",
+      "name": "clothes on shelf"
+    },
+    {
+      "object_id": "1_0_19",
+      "room_id": "1_0",
+      "name": "floor /otherroom"
+    },
+    {
+      "object_id": "1_0_2",
+      "room_id": "1_0",
+      "name": "ceiling/west wall"
+    },
+    {
+      "object_id": "1_0_20",
+      "room_id": "1_0",
+      "name": "dustpan"
+    },
+    {
+      "object_id": "1_0_21",
+      "room_id": "1_0",
+      "name": "stack of clothes"
+    },
+    {
+      "object_id": "1_0_3",
+      "room_id": "1_0",
+      "name": "closet floor"
+    },
+    {
+      "object_id": "1_0_4",
+      "room_id": "1_0",
+      "name": "closet floor"
+    },
+    {
+      "object_id": "1_0_5",
+      "room_id": "1_0",
+      "name": "closet floor"
+    },
+    {
+      "object_id": "1_0_6",
+      "room_id": "1_0",
+      "name": "shelf"
+    },
+    {
+      "object_id": "1_0_7",
+      "room_id": "1_0",
+      "name": "wardrobe"
+    },
+    {
+      "object_id": "1_0_8",
+      "room_id": "1_0",
+      "name": "closet shelf"
+    },
+    {
+      "object_id": "1_0_9",
+      "room_id": "1_0",
+      "name": "hanging clothes"
+    },
+    {
+      "object_id": "1_1_0",
+      "room_id": "1_1",
+      "name": "duvet"
+    },
+    {
+      "object_id": "1_1_1",
+      "room_id": "1_1",
+      "name": "floor /otherroom"
+    },
+    {
+      "object_id": "1_1_10",
+      "room_id": "1_1",
+      "name": "window /otherroom"
+    },
+    {
+      "object_id": "1_1_11",
+      "room_id": "1_1",
+      "name": "bed cabinet"
+    },
+    {
+      "object_id": "1_1_12",
+      "room_id": "1_1",
+      "name": "floor /otherroom"
+    },
+    {
+      "object_id": "1_1_13",
+      "room_id": "1_1",
+      "name": "closet door"
+    },
+    {
+      "object_id": "1_1_14",
+      "room_id": "1_1",
+      "name": "closet door"
+    },
+    {
+      "object_id": "1_1_15",
+      "room_id": "1_1",
+      "name": "closet door"
+    },
+    {
+      "object_id": "1_1_16",
+      "room_id": "1_1",
+      "name": "closet door"
+    },
+    {
+      "object_id": "1_1_17",
+      "room_id": "1_1",
+      "name": "closet door"
+    },
+    {
+      "object_id": "1_1_18",
+      "room_id": "1_1",
+      "name": "recessed wall"
+    },
+    {
+      "object_id": "1_1_19",
+      "room_id": "1_1",
+      "name": "closet floor"
+    },
+    {
+      "object_id": "1_1_2",
+      "room_id": "1_1",
+      "name": "window /otherroom"
+    },
+    {
+      "object_id": "1_1_20",
+      "room_id": "1_1",
+      "name": "closet door"
+    },
+    {
+      "object_id": "1_1_21",
+      "room_id": "1_1",
+      "name": "ceiling lamp"
+    },
+    {
+      "object_id": "1_1_22",
+      "room_id": "1_1",
+      "name": "lampshade"
+    },
+    {
+      "object_id": "1_1_23",
+      "room_id": "1_1",
+      "name": "ceiling duct"
+    },
+    {
+      "object_id": "1_1_24",
+      "room_id": "1_1",
+      "name": "ceiling wall"
+    },
+    {
+      "object_id": "1_1_25",
+      "room_id": "1_1",
+      "name": "bed small"
+    },
+    {
+      "object_id": "1_1_26",
+      "room_id": "1_1",
+      "name": "bed cabinet"
+    },
+    {
+      "object_id": "1_1_27",
+      "room_id": "1_1",
+      "name": "mirror /otherroom"
+    },
+    {
+      "object_id": "1_1_28",
+      "room_id": "1_1",
+      "name": "ceiling hanger"
+    },
+    {
+      "object_id": "1_1_29",
+      "room_id": "1_1",
+      "name": "duvet"
+    },
+    {
+      "object_id": "1_1_3",
+      "room_id": "1_1",
+      "name": "drawer"
+    },
+    {
+      "object_id": "1_1_30",
+      "room_id": "1_1",
+      "name": "closet door"
+    },
+    {
+      "object_id": "1_1_4",
+      "room_id": "1_1",
+      "name": "bed cabinet"
+    },
+    {
+      "object_id": "1_1_5",
+      "room_id": "1_1",
+      "name": "wall indent"
+    },
+    {
+      "object_id": "1_1_6",
+      "room_id": "1_1",
+      "name": "window /otherroom"
+    },
+    {
+      "object_id": "1_1_7",
+      "room_id": "1_1",
+      "name": "window /otherroom"
+    },
+    {
+      "object_id": "1_1_8",
+      "room_id": "1_1",
+      "name": "duvet"
+    },
+    {
+      "object_id": "1_1_9",
+      "room_id": "1_1",
+      "name": "duvet"
+    },
+    {
+      "object_id": "1_2_0",
+      "room_id": "1_2",
+      "name": "ship model"
+    },
+    {
+      "object_id": "1_2_1",
+      "room_id": "1_2",
+      "name": "staircase wall"
+    },
+    {
+      "object_id": "1_2_10",
+      "room_id": "1_2",
+      "name": "headboard"
+    },
+    {
+      "object_id": "1_2_11",
+      "room_id": "1_2",
+      "name": "ceiling bedroom"
+    },
+    {
+      "object_id": "1_2_12",
+      "room_id": "1_2",
+      "name": "framed text"
+    },
+    {
+      "object_id": "1_2_13",
+      "room_id": "1_2",
+      "name": "skirting board"
+    },
+    {
+      "object_id": "1_2_14",
+      "room_id": "1_2",
+      "name": "floor /otherroom"
+    },
+    {
+      "object_id": "1_2_15",
+      "room_id": "1_2",
+      "name": "ceiling boarder"
+    },
+    {
+      "object_id": "1_2_16",
+      "room_id": "1_2",
+      "name": "drywall board"
+    },
+    {
+      "object_id": "1_2_17",
+      "room_id": "1_2",
+      "name": "drywall board"
+    },
+    {
+      "object_id": "1_2_18",
+      "room_id": "1_2",
+      "name": "window frame /otherroom"
+    },
+    {
+      "object_id": "1_2_19",
+      "room_id": "1_2",
+      "name": "door /otherroom"
+    },
+    {
+      "object_id": "1_2_2",
+      "room_id": "1_2",
+      "name": "ceiling window"
+    },
+    {
+      "object_id": "1_2_20",
+      "room_id": "1_2",
+      "name": "closet floor"
+    },
+    {
+      "object_id": "1_2_21",
+      "room_id": "1_2",
+      "name": "mini fridge"
+    },
+    {
+      "object_id": "1_2_22",
+      "room_id": "1_2",
+      "name": "trashcan"
+    },
+    {
+      "object_id": "1_2_23",
+      "room_id": "1_2",
+      "name": "shelf"
+    },
+    {
+      "object_id": "1_2_24",
+      "room_id": "1_2",
+      "name": "stack of stuff"
+    },
+    {
+      "object_id": "1_2_25",
+      "room_id": "1_2",
+      "name": "shelf cubby"
+    },
+    {
+      "object_id": "1_2_26",
+      "room_id": "1_2",
+      "name": "bookshelf"
+    },
+    {
+      "object_id": "1_2_27",
+      "room_id": "1_2",
+      "name": "trash bag"
+    },
+    {
+      "object_id": "1_2_28",
+      "room_id": "1_2",
+      "name": "mini fridge"
+    },
+    {
+      "object_id": "1_2_29",
+      "room_id": "1_2",
+      "name": "painting /otherroom"
+    },
+    {
+      "object_id": "1_2_3",
+      "room_id": "1_2",
+      "name": "ceiling support"
+    },
+    {
+      "object_id": "1_2_30",
+      "room_id": "1_2",
+      "name": "shelf"
+    },
+    {
+      "object_id": "1_2_31",
+      "room_id": "1_2",
+      "name": "door /otherroom"
+    },
+    {
+      "object_id": "1_2_32",
+      "room_id": "1_2",
+      "name": "shelf with clutter"
+    },
+    {
+      "object_id": "1_2_33",
+      "room_id": "1_2",
+      "name": "shelf"
+    },
+    {
+      "object_id": "1_2_34",
+      "room_id": "1_2",
+      "name": "shelf with clutter"
+    },
+    {
+      "object_id": "1_2_35",
+      "room_id": "1_2",
+      "name": "floor /otherroom"
+    },
+    {
+      "object_id": "1_2_36",
+      "room_id": "1_2",
+      "name": "recessed wall"
+    },
+    {
+      "object_id": "1_2_37",
+      "room_id": "1_2",
+      "name": "skirting board"
+    },
+    {
+      "object_id": "1_2_38",
+      "room_id": "1_2",
+      "name": "ceiling door"
+    },
+    {
+      "object_id": "1_2_39",
+      "room_id": "1_2",
+      "name": "drywall board"
+    },
+    {
+      "object_id": "1_2_4",
+      "room_id": "1_2",
+      "name": "wall beam"
+    },
+    {
+      "object_id": "1_2_40",
+      "room_id": "1_2",
+      "name": "drywall board"
+    },
+    {
+      "object_id": "1_2_41",
+      "room_id": "1_2",
+      "name": "fireplace mirror"
+    },
+    {
+      "object_id": "1_2_42",
+      "room_id": "1_2",
+      "name": "wall indent"
+    },
+    {
+      "object_id": "1_2_43",
+      "room_id": "1_2",
+      "name": "wall indent"
+    },
+    {
+      "object_id": "1_2_44",
+      "room_id": "1_2",
+      "name": "shelf with clutter"
+    },
+    {
+      "object_id": "1_2_45",
+      "room_id": "1_2",
+      "name": "cardboard"
+    },
+    {
+      "object_id": "1_2_46",
+      "room_id": "1_2",
+      "name": "cloth holder"
+    },
+    {
+      "object_id": "1_2_47",
+      "room_id": "1_2",
+      "name": "closet shelf"
+    },
+    {
+      "object_id": "1_2_5",
+      "room_id": "1_2",
+      "name": "drywall board"
+    },
+    {
+      "object_id": "1_2_6",
+      "room_id": "1_2",
+      "name": "drywall board"
+    },
+    {
+      "object_id": "1_2_7",
+      "room_id": "1_2",
+      "name": "lampshade"
+    },
+    {
+      "object_id": "1_2_8",
+      "room_id": "1_2",
+      "name": "wall indent"
+    },
+    {
+      "object_id": "1_2_9",
+      "room_id": "1_2",
+      "name": "painting"
+    },
+    {
+      "object_id": "1_3_0",
+      "room_id": "1_3",
+      "name": "wall indent"
+    },
+    {
+      "object_id": "1_3_1",
+      "room_id": "1_3",
+      "name": "closet floor"
+    },
+    {
+      "object_id": "1_3_10",
+      "room_id": "1_3",
+      "name": "fan coil"
+    },
+    {
+      "object_id": "1_3_11",
+      "room_id": "1_3",
+      "name": "ceiling duct"
+    },
+    {
+      "object_id": "1_3_12",
+      "room_id": "1_3",
+      "name": "tiles"
+    },
+    {
+      "object_id": "1_3_13",
+      "room_id": "1_3",
+      "name": "shower floor"
+    },
+    {
+      "object_id": "1_3_14",
+      "room_id": "1_3",
+      "name": "shower ceiling"
+    },
+    {
+      "object_id": "1_3_15",
+      "room_id": "1_3",
+      "name": "shower ceiling"
+    },
+    {
+      "object_id": "1_3_16",
+      "room_id": "1_3",
+      "name": "shower ceiling"
+    },
+    {
+      "object_id": "1_3_17",
+      "room_id": "1_3",
+      "name": "wall indent"
+    },
+    {
+      "object_id": "1_3_18",
+      "room_id": "1_3",
+      "name": "shower wall"
+    },
+    {
+      "object_id": "1_3_19",
+      "room_id": "1_3",
+      "name": "painting /otherroom"
+    },
+    {
+      "object_id": "1_3_2",
+      "room_id": "1_3",
+      "name": "wall indent"
+    },
+    {
+      "object_id": "1_3_20",
+      "room_id": "1_3",
+      "name": "sink"
+    },
+    {
+      "object_id": "1_3_21",
+      "room_id": "1_3",
+      "name": "shower wall"
+    },
+    {
+      "object_id": "1_3_3",
+      "room_id": "1_3",
+      "name": "skirting board"
+    },
+    {
+      "object_id": "1_3_4",
+      "room_id": "1_3",
+      "name": "skirting board"
+    },
+    {
+      "object_id": "1_3_5",
+      "room_id": "1_3",
+      "name": "attic hatch"
+    },
+    {
+      "object_id": "1_3_6",
+      "room_id": "1_3",
+      "name": "wall toilet paper"
+    },
+    {
+      "object_id": "1_3_7",
+      "room_id": "1_3",
+      "name": "painting /otherroom"
+    },
+    {
+      "object_id": "1_3_8",
+      "room_id": "1_3",
+      "name": "tile"
+    },
+    {
+      "object_id": "1_3_9",
+      "room_id": "1_3",
+      "name": "painting"
+    },
+    {
+      "object_id": "1_4_0",
+      "room_id": "1_4",
+      "name": "floor /otherroom"
+    },
+    {
+      "object_id": "1_4_1",
+      "room_id": "1_4",
+      "name": "duvet"
+    },
+    {
+      "object_id": "1_4_10",
+      "room_id": "1_4",
+      "name": "recessed wall"
+    },
+    {
+      "object_id": "1_4_11",
+      "room_id": "1_4",
+      "name": "ceiling duct"
+    },
+    {
+      "object_id": "1_4_12",
+      "room_id": "1_4",
+      "name": "bed small"
+    },
+    {
+      "object_id": "1_4_13",
+      "room_id": "1_4",
+      "name": "ceiling"
+    },
+    {
+      "object_id": "1_4_14",
+      "room_id": "1_4",
+      "name": "ceiling boarder"
+    },
+    {
+      "object_id": "1_4_15",
+      "room_id": "1_4",
+      "name": "ceiling door"
+    },
+    {
+      "object_id": "1_4_16",
+      "room_id": "1_4",
+      "name": "window shade"
+    },
+    {
+      "object_id": "1_4_17",
+      "room_id": "1_4",
+      "name": "ceiling"
+    },
+    {
+      "object_id": "1_4_18",
+      "room_id": "1_4",
+      "name": "ceiling wall"
+    },
+    {
+      "object_id": "1_4_19",
+      "room_id": "1_4",
+      "name": "ceiling"
+    },
+    {
+      "object_id": "1_4_2",
+      "room_id": "1_4",
+      "name": "window shade"
+    },
+    {
+      "object_id": "1_4_20",
+      "room_id": "1_4",
+      "name": "ceiling door"
+    },
+    {
+      "object_id": "1_4_21",
+      "room_id": "1_4",
+      "name": "hanging clothes"
+    },
+    {
+      "object_id": "1_4_22",
+      "room_id": "1_4",
+      "name": "closet"
+    },
+    {
+      "object_id": "1_4_23",
+      "room_id": "1_4",
+      "name": "hanging clothes"
+    },
+    {
+      "object_id": "1_4_24",
+      "room_id": "1_4",
+      "name": "closet"
+    },
+    {
+      "object_id": "1_4_25",
+      "room_id": "1_4",
+      "name": "closet area for hanging clothes"
+    },
+    {
+      "object_id": "1_4_26",
+      "room_id": "1_4",
+      "name": "ceiling wall"
+    },
+    {
+      "object_id": "1_4_27",
+      "room_id": "1_4",
+      "name": "door /otherroom"
+    },
+    {
+      "object_id": "1_4_3",
+      "room_id": "1_4",
+      "name": "painting /otherroom"
+    },
+    {
+      "object_id": "1_4_4",
+      "room_id": "1_4",
+      "name": "monitor"
+    },
+    {
+      "object_id": "1_4_5",
+      "room_id": "1_4",
+      "name": "chair /w clutter"
+    },
+    {
+      "object_id": "1_4_6",
+      "room_id": "1_4",
+      "name": "attic door"
+    },
+    {
+      "object_id": "1_4_7",
+      "room_id": "1_4",
+      "name": "bed small"
+    },
+    {
+      "object_id": "1_4_8",
+      "room_id": "1_4",
+      "name": "bed small"
+    },
+    {
+      "object_id": "1_4_9",
+      "room_id": "1_4",
+      "name": "wall post"
+    },
+    {
+      "object_id": "1_5_0",
+      "room_id": "1_5",
+      "name": "painting /otherroom"
+    },
+    {
+      "object_id": "1_5_1",
+      "room_id": "1_5",
+      "name": "drywall board"
+    },
+    {
+      "object_id": "1_5_10",
+      "room_id": "1_5",
+      "name": "stack of stuff"
+    },
+    {
+      "object_id": "1_5_11",
+      "room_id": "1_5",
+      "name": "mirror door"
+    },
+    {
+      "object_id": "1_5_12",
+      "room_id": "1_5",
+      "name": "floor /otherroom"
+    },
+    {
+      "object_id": "1_5_13",
+      "room_id": "1_5",
+      "name": "wall indent"
+    },
+    {
+      "object_id": "1_5_14",
+      "room_id": "1_5",
+      "name": "wall indent"
+    },
+    {
+      "object_id": "1_5_15",
+      "room_id": "1_5",
+      "name": "glass door"
+    },
+    {
+      "object_id": "1_5_16",
+      "room_id": "1_5",
+      "name": "shower ceiling"
+    },
+    {
+      "object_id": "1_5_17",
+      "room_id": "1_5",
+      "name": "painting /otherroom"
+    },
+    {
+      "object_id": "1_5_18",
+      "room_id": "1_5",
+      "name": "wall indent"
+    },
+    {
+      "object_id": "1_5_19",
+      "room_id": "1_5",
+      "name": "solarium door"
+    },
+    {
+      "object_id": "1_5_2",
+      "room_id": "1_5",
+      "name": "prop"
+    },
+    {
+      "object_id": "1_5_20",
+      "room_id": "1_5",
+      "name": "shower door"
+    },
+    {
+      "object_id": "1_5_21",
+      "room_id": "1_5",
+      "name": "stack of stuff"
+    },
+    {
+      "object_id": "1_5_22",
+      "room_id": "1_5",
+      "name": "mirror door"
+    },
+    {
+      "object_id": "1_5_23",
+      "room_id": "1_5",
+      "name": "doorpost"
+    },
+    {
+      "object_id": "1_5_24",
+      "room_id": "1_5",
+      "name": "glass pane"
+    },
+    {
+      "object_id": "1_5_25",
+      "room_id": "1_5",
+      "name": "bathroom glass"
+    },
+    {
+      "object_id": "1_5_26",
+      "room_id": "1_5",
+      "name": "glass pane"
+    },
+    {
+      "object_id": "1_5_27",
+      "room_id": "1_5",
+      "name": "tile"
+    },
+    {
+      "object_id": "1_5_28",
+      "room_id": "1_5",
+      "name": "air duct"
+    },
+    {
+      "object_id": "1_5_29",
+      "room_id": "1_5",
+      "name": "glass pane"
+    },
+    {
+      "object_id": "1_5_3",
+      "room_id": "1_5",
+      "name": "painting /otherroom"
+    },
+    {
+      "object_id": "1_5_30",
+      "room_id": "1_5",
+      "name": "wall indent"
+    },
+    {
+      "object_id": "1_5_31",
+      "room_id": "1_5",
+      "name": "stairs skirt"
+    },
+    {
+      "object_id": "1_5_32",
+      "room_id": "1_5",
+      "name": "wall indent"
+    },
+    {
+      "object_id": "1_5_33",
+      "room_id": "1_5",
+      "name": "ceiling wall"
+    },
+    {
+      "object_id": "1_5_34",
+      "room_id": "1_5",
+      "name": "shower ceiling"
+    },
+    {
+      "object_id": "1_5_35",
+      "room_id": "1_5",
+      "name": "ceiling panel"
+    },
+    {
+      "object_id": "1_5_36",
+      "room_id": "1_5",
+      "name": "wall indent"
+    },
+    {
+      "object_id": "1_5_37",
+      "room_id": "1_5",
+      "name": "installation"
+    },
+    {
+      "object_id": "1_5_38",
+      "room_id": "1_5",
+      "name": "ceiling wall"
+    },
+    {
+      "object_id": "1_5_39",
+      "room_id": "1_5",
+      "name": "shower ceiling"
+    },
+    {
+      "object_id": "1_5_4",
+      "room_id": "1_5",
+      "name": "drywall board"
+    },
+    {
+      "object_id": "1_5_40",
+      "room_id": "1_5",
+      "name": "installation"
+    },
+    {
+      "object_id": "1_5_41",
+      "room_id": "1_5",
+      "name": "shower ceiling lamp"
+    },
+    {
+      "object_id": "1_5_42",
+      "room_id": "1_5",
+      "name": "shower ceiling"
+    },
+    {
+      "object_id": "1_5_43",
+      "room_id": "1_5",
+      "name": "wall indent"
+    },
+    {
+      "object_id": "1_5_44",
+      "room_id": "1_5",
+      "name": "bathroom mat"
+    },
+    {
+      "object_id": "1_5_45",
+      "room_id": "1_5",
+      "name": "stapler"
+    },
+    {
+      "object_id": "1_5_46",
+      "room_id": "1_5",
+      "name": "fluorescent light"
+    },
+    {
+      "object_id": "1_5_47",
+      "room_id": "1_5",
+      "name": "wall indent"
+    },
+    {
+      "object_id": "1_5_48",
+      "room_id": "1_5",
+      "name": "wall indent"
+    },
+    {
+      "object_id": "1_5_49",
+      "room_id": "1_5",
+      "name": "toilet"
+    },
+    {
+      "object_id": "1_5_5",
+      "room_id": "1_5",
+      "name": "ceiling window"
+    },
+    {
+      "object_id": "1_5_50",
+      "room_id": "1_5",
+      "name": "wall indent"
+    },
+    {
+      "object_id": "1_5_51",
+      "room_id": "1_5",
+      "name": "wall indent"
+    },
+    {
+      "object_id": "1_5_52",
+      "room_id": "1_5",
+      "name": "plank"
+    },
+    {
+      "object_id": "1_5_53",
+      "room_id": "1_5",
+      "name": "bathroom floor"
+    },
+    {
+      "object_id": "1_5_54",
+      "room_id": "1_5",
+      "name": "closet floor"
+    },
+    {
+      "object_id": "1_5_55",
+      "room_id": "1_5",
+      "name": "cardboard"
+    },
+    {
+      "object_id": "1_5_56",
+      "room_id": "1_5",
+      "name": "wall indent"
+    },
+    {
+      "object_id": "1_5_57",
+      "room_id": "1_5",
+      "name": "wall indent"
+    },
+    {
+      "object_id": "1_5_58",
+      "room_id": "1_5",
+      "name": "ceiling wall"
+    },
+    {
+      "object_id": "1_5_59",
+      "room_id": "1_5",
+      "name": "ceiling boarder"
+    },
+    {
+      "object_id": "1_5_6",
+      "room_id": "1_5",
+      "name": "footstool"
+    },
+    {
+      "object_id": "1_5_60",
+      "room_id": "1_5",
+      "name": "ceiling wall"
+    },
+    {
+      "object_id": "1_5_7",
+      "room_id": "1_5",
+      "name": "bathroom mat"
+    },
+    {
+      "object_id": "1_5_8",
+      "room_id": "1_5",
+      "name": "mirror door"
+    },
+    {
+      "object_id": "1_5_9",
+      "room_id": "1_5",
+      "name": "wall indent"
+    },
+    {
+      "object_id": "1_6_0",
+      "room_id": "1_6",
+      "name": "closet door"
+    },
+    {
+      "object_id": "1_6_1",
+      "room_id": "1_6",
+      "name": "sink pipe"
+    },
+    {
+      "object_id": "1_6_10",
+      "room_id": "1_6",
+      "name": "ceiling wall"
+    },
+    {
+      "object_id": "1_6_11",
+      "room_id": "1_6",
+      "name": "ceiling/west wall"
+    },
+    {
+      "object_id": "1_6_12",
+      "room_id": "1_6",
+      "name": "chest of drawers"
+    },
+    {
+      "object_id": "1_6_13",
+      "room_id": "1_6",
+      "name": "wall beam"
+    },
+    {
+      "object_id": "1_6_14",
+      "room_id": "1_6",
+      "name": "newspaper basket"
+    },
+    {
+      "object_id": "1_6_15",
+      "room_id": "1_6",
+      "name": "baskets"
+    },
+    {
+      "object_id": "1_6_16",
+      "room_id": "1_6",
+      "name": "bedpost"
+    },
+    {
+      "object_id": "1_6_17",
+      "room_id": "1_6",
+      "name": "painting /otherroom"
+    },
+    {
+      "object_id": "1_6_18",
+      "room_id": "1_6",
+      "name": "cardboard"
+    },
+    {
+      "object_id": "1_6_19",
+      "room_id": "1_6",
+      "name": "changing table"
+    },
+    {
+      "object_id": "1_6_2",
+      "room_id": "1_6",
+      "name": "drywall board"
+    },
+    {
+      "object_id": "1_6_20",
+      "room_id": "1_6",
+      "name": "recessed wall"
+    },
+    {
+      "object_id": "1_6_21",
+      "room_id": "1_6",
+      "name": "recessed wall"
+    },
+    {
+      "object_id": "1_6_22",
+      "room_id": "1_6",
+      "name": "ceiling window"
+    },
+    {
+      "object_id": "1_6_23",
+      "room_id": "1_6",
+      "name": "ceiling boarder"
+    },
+    {
+      "object_id": "1_6_24",
+      "room_id": "1_6",
+      "name": "ceiling window"
+    },
+    {
+      "object_id": "1_6_25",
+      "room_id": "1_6",
+      "name": "ceiling boarder"
+    },
+    {
+      "object_id": "1_6_26",
+      "room_id": "1_6",
+      "name": "stack of stuff"
+    },
+    {
+      "object_id": "1_6_27",
+      "room_id": "1_6",
+      "name": "shelf with clutter"
+    },
+    {
+      "object_id": "1_6_28",
+      "room_id": "1_6",
+      "name": "artwork"
+    },
+    {
+      "object_id": "1_6_29",
+      "room_id": "1_6",
+      "name": "shelf with clutter"
+    },
+    {
+      "object_id": "1_6_3",
+      "room_id": "1_6",
+      "name": "window frame /otherroom"
+    },
+    {
+      "object_id": "1_6_30",
+      "room_id": "1_6",
+      "name": "painting roll"
+    },
+    {
+      "object_id": "1_6_31",
+      "room_id": "1_6",
+      "name": "closet floor"
+    },
+    {
+      "object_id": "1_6_32",
+      "room_id": "1_6",
+      "name": "stack of stuff"
+    },
+    {
+      "object_id": "1_6_33",
+      "room_id": "1_6",
+      "name": "painting stuff"
+    },
+    {
+      "object_id": "1_6_34",
+      "room_id": "1_6",
+      "name": "painting /otherroom"
+    },
+    {
+      "object_id": "1_6_35",
+      "room_id": "1_6",
+      "name": "shelf with clutter"
+    },
+    {
+      "object_id": "1_6_36",
+      "room_id": "1_6",
+      "name": "art/muscle shell"
+    },
+    {
+      "object_id": "1_6_37",
+      "room_id": "1_6",
+      "name": "stack of stuff"
+    },
+    {
+      "object_id": "1_6_38",
+      "room_id": "1_6",
+      "name": "painting /otherroom"
+    },
+    {
+      "object_id": "1_6_39",
+      "room_id": "1_6",
+      "name": "wall indent"
+    },
+    {
+      "object_id": "1_6_4",
+      "room_id": "1_6",
+      "name": "drywall board"
+    },
+    {
+      "object_id": "1_6_40",
+      "room_id": "1_6",
+      "name": "ceiling boarder"
+    },
+    {
+      "object_id": "1_6_41",
+      "room_id": "1_6",
+      "name": "ceiling duct"
+    },
+    {
+      "object_id": "1_6_42",
+      "room_id": "1_6",
+      "name": "ceiling wall"
+    },
+    {
+      "object_id": "1_6_43",
+      "room_id": "1_6",
+      "name": "ceiling boarder"
+    },
+    {
+      "object_id": "1_6_44",
+      "room_id": "1_6",
+      "name": "ceiling hanger"
+    },
+    {
+      "object_id": "1_6_45",
+      "room_id": "1_6",
+      "name": "ceiling duct"
+    },
+    {
+      "object_id": "1_6_46",
+      "room_id": "1_6",
+      "name": "cushion"
+    },
+    {
+      "object_id": "1_6_47",
+      "room_id": "1_6",
+      "name": "artwork"
+    },
+    {
+      "object_id": "1_6_48",
+      "room_id": "1_6",
+      "name": "shelf with clutter"
+    },
+    {
+      "object_id": "1_6_49",
+      "room_id": "1_6",
+      "name": "painting stuff"
+    },
+    {
+      "object_id": "1_6_5",
+      "room_id": "1_6",
+      "name": "ceiling boarder"
+    },
+    {
+      "object_id": "1_6_50",
+      "room_id": "1_6",
+      "name": "painting /otherroom"
+    },
+    {
+      "object_id": "1_6_51",
+      "room_id": "1_6",
+      "name": "floor /otherroom"
+    },
+    {
+      "object_id": "1_6_52",
+      "room_id": "1_6",
+      "name": "banner"
+    },
+    {
+      "object_id": "1_6_53",
+      "room_id": "1_6",
+      "name": "bedpost"
+    },
+    {
+      "object_id": "1_6_54",
+      "room_id": "1_6",
+      "name": "bedpost"
+    },
+    {
+      "object_id": "1_6_55",
+      "room_id": "1_6",
+      "name": "wall beam"
+    },
+    {
+      "object_id": "1_6_56",
+      "room_id": "1_6",
+      "name": "photo"
+    },
+    {
+      "object_id": "1_6_57",
+      "room_id": "1_6",
+      "name": "drywall board"
+    },
+    {
+      "object_id": "1_6_58",
+      "room_id": "1_6",
+      "name": "wall indent"
+    },
+    {
+      "object_id": "1_6_59",
+      "room_id": "1_6",
+      "name": "drywall board"
+    },
+    {
+      "object_id": "1_6_6",
+      "room_id": "1_6",
+      "name": "ceiling duct"
+    },
+    {
+      "object_id": "1_6_60",
+      "room_id": "1_6",
+      "name": "ceiling duct"
+    },
+    {
+      "object_id": "1_6_61",
+      "room_id": "1_6",
+      "name": "cardboard"
+    },
+    {
+      "object_id": "1_6_62",
+      "room_id": "1_6",
+      "name": "ceiling duct"
+    },
+    {
+      "object_id": "1_6_63",
+      "room_id": "1_6",
+      "name": "ceiling duct"
+    },
+    {
+      "object_id": "1_6_7",
+      "room_id": "1_6",
+      "name": "ceiling wall"
+    },
+    {
+      "object_id": "1_6_8",
+      "room_id": "1_6",
+      "name": "floor /otherroom"
+    },
+    {
+      "object_id": "1_6_9",
+      "room_id": "1_6",
+      "name": "skirting board"
+    },
+    {
+      "object_id": "1_7_0",
+      "room_id": "1_7",
+      "name": "ceiling wall"
+    },
+    {
+      "object_id": "1_7_1",
+      "room_id": "1_7",
+      "name": "wall indent"
+    },
+    {
+      "object_id": "1_7_10",
+      "room_id": "1_7",
+      "name": "ceiling wall"
+    },
+    {
+      "object_id": "1_7_11",
+      "room_id": "1_7",
+      "name": "glass pane"
+    },
+    {
+      "object_id": "1_7_12",
+      "room_id": "1_7",
+      "name": "recessed wall"
+    },
+    {
+      "object_id": "1_7_13",
+      "room_id": "1_7",
+      "name": "trashcan"
+    },
+    {
+      "object_id": "1_7_14",
+      "room_id": "1_7",
+      "name": "bathroom wall"
+    },
+    {
+      "object_id": "1_7_15",
+      "room_id": "1_7",
+      "name": "skirting board"
+    },
+    {
+      "object_id": "1_7_16",
+      "room_id": "1_7",
+      "name": "washbasin counter"
+    },
+    {
+      "object_id": "1_7_17",
+      "room_id": "1_7",
+      "name": "bathroom shelf"
+    },
+    {
+      "object_id": "1_7_18",
+      "room_id": "1_7",
+      "name": "shelf with shoes"
+    },
+    {
+      "object_id": "1_7_19",
+      "room_id": "1_7",
+      "name": "pillar"
+    },
+    {
+      "object_id": "1_7_2",
+      "room_id": "1_7",
+      "name": "skirting board"
+    },
+    {
+      "object_id": "1_7_20",
+      "room_id": "1_7",
+      "name": "mirror /otherroom"
+    },
+    {
+      "object_id": "1_7_21",
+      "room_id": "1_7",
+      "name": "bathroom floor"
+    },
+    {
+      "object_id": "1_7_22",
+      "room_id": "1_7",
+      "name": "ceiling wall"
+    },
+    {
+      "object_id": "1_7_23",
+      "room_id": "1_7",
+      "name": "cardboard"
+    },
+    {
+      "object_id": "1_7_24",
+      "room_id": "1_7",
+      "name": "radiator"
+    },
+    {
+      "object_id": "1_7_25",
+      "room_id": "1_7",
+      "name": "ceiling support"
+    },
+    {
+      "object_id": "1_7_26",
+      "room_id": "1_7",
+      "name": "recessed wall"
+    },
+    {
+      "object_id": "1_7_27",
+      "room_id": "1_7",
+      "name": "shower ceiling"
+    },
+    {
+      "object_id": "1_7_28",
+      "room_id": "1_7",
+      "name": "shower ceiling"
+    },
+    {
+      "object_id": "1_7_29",
+      "room_id": "1_7",
+      "name": "ceiling wall"
+    },
+    {
+      "object_id": "1_7_3",
+      "room_id": "1_7",
+      "name": "skirting board"
+    },
+    {
+      "object_id": "1_7_30",
+      "room_id": "1_7",
+      "name": "shower ceiling"
+    },
+    {
+      "object_id": "1_7_31",
+      "room_id": "1_7",
+      "name": "shower wall"
+    },
+    {
+      "object_id": "1_7_32",
+      "room_id": "1_7",
+      "name": "bathroom floor"
+    },
+    {
+      "object_id": "1_7_33",
+      "room_id": "1_7",
+      "name": "shower ceiling"
+    },
+    {
+      "object_id": "1_7_34",
+      "room_id": "1_7",
+      "name": "shower ceiling"
+    },
+    {
+      "object_id": "1_7_35",
+      "room_id": "1_7",
+      "name": "shower ceiling"
+    },
+    {
+      "object_id": "1_7_4",
+      "room_id": "1_7",
+      "name": "wall indent"
+    },
+    {
+      "object_id": "1_7_5",
+      "room_id": "1_7",
+      "name": "wall post"
+    },
+    {
+      "object_id": "1_7_6",
+      "room_id": "1_7",
+      "name": "washbasin"
+    },
+    {
+      "object_id": "1_7_7",
+      "room_id": "1_7",
+      "name": "wall indent"
+    },
+    {
+      "object_id": "1_7_8",
+      "room_id": "1_7",
+      "name": "mirror /otherroom"
+    },
+    {
+      "object_id": "1_7_9",
+      "room_id": "1_7",
+      "name": "wall indent"
+    }
+  ]
+}

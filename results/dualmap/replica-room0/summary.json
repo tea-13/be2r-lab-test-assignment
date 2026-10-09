@@ -1,0 +1,49 @@
+{
+  "status": "SMOKE_TESTED",
+  "exit_code": 0,
+  "scene": "Replica room0",
+  "input_frames": 2000,
+  "stride": 10,
+  "processed_frames": 200,
+  "saved_objects": 58,
+  "layout_bytes": 670180,
+  "source_run": "results/dualmap/replica-20261009-002733-609454",
+  "timing": [
+    {
+      "Step": "Time Per Frame",
+      "Avg Time (s)": "0.7921",
+      "90th Percentile (s)": "1.1714"
+    },
+    {
+      "Step": "Detection Process",
+      "Avg Time (s)": "0.3627",
+      "90th Percentile (s)": "0.4294"
+    },
+    {
+      "Step": "Save Detection",
+      "Avg Time (s)": "0.0000",
+      "90th Percentile (s)": "0.0000"
+    },
+    {
+      "Step": "Vis Detection",
+      "Avg Time (s)": "0.0257",
+      "90th Percentile (s)": "0.0326"
+    },
+    {
+      "Step": "Local Mapping",
+      "Avg Time (s)": "0.4293",
+      "90th Percentile (s)": "0.8204"
+    },
+    {
+      "Step": "Global Mapping",
+      "Avg Time (s)": "0.0000",
+      "90th Percentile (s)": "0.0000"
+    },
+    {
+      "Step": "Merging",
+      "Avg Time (s)": "0.0000",
+      "90th Percentile (s)": "0.0000"
+    }
+  ],
+  "semantic_evaluation": false
+}

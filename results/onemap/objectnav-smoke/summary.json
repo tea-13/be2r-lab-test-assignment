@@ -1,0 +1,35 @@
+{
+  "status": "SMOKE_TESTED",
+  "exit_code": 0,
+  "source_run": "results/onemap/objectnav-20261009-012830-923033",
+  "dataset": "HM3D ObjectNav v2",
+  "scene": "00861-GLAQ4DNUx5U",
+  "max_steps": 200,
+  "episodes": [
+    {
+      "loader_episode_id": 0,
+      "source_episode_id": "3",
+      "category": "toilet",
+      "state": 4,
+      "steps": 200
+    },
+    {
+      "loader_episode_id": 1,
+      "source_episode_id": "0",
+      "category": "sofa",
+      "state": 4,
+      "steps": 200
+    },
+    {
+      "loader_episode_id": 2,
+      "source_episode_id": "2",
+      "category": "bed",
+      "state": 1,
+      "steps": 154
+    }
+  ],
+  "success_rate": 0.3333333333333333,
+  "paper_benchmark_reproduced": false,
+  "average_spl_reported_percent": 27.33,
+  "metric_source": "upstream read_results.py, rounded display"
+}
