@@ -1,0 +1,25 @@
+# Dataset/Offline Query subset of upstream environment.yml; no ROS/iPhone extras.
+# torch/vision/audio installed separately from cu128 index.
+open-clip-torch==2.32.0
+open3d==0.19.0
+numpy==1.26.4
+hydra-core==1.3.2
+ultralytics==8.3.103
+supervision==0.25.1
+rerun-sdk==0.22.1
+tyro
+wandb
+h5py
+openai
+distinctipy
+dill
+imageio
+natsort
+kornia
+pypng
+tabulate
+pympler
+plyfile
+psutil
+opencv-python==4.11.0.86
+opencv-python-headless==4.11.0.86

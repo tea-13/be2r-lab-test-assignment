@@ -1,0 +1,3 @@
+Class IDs: https://huggingface.co/datasets/ai-habitat/ReplicaCAD_dataset/blob/main/configs/ssd/replicaCAD_semantic_lexicon.json
+SHA256 of downloaded source: e611f5dec30903981a4d9fcbd12703c85f939424874509315b438d9032a99803
+Colors: deterministic HSV visualization only; not ground-truth colors.

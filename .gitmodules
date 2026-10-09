@@ -1,0 +1,12 @@
+[submodule "third_party/DualMap"]
+	path = third_party/DualMap
+	url = https://github.com/Eku127/DualMap.git
+[submodule "third_party/OneMap"]
+	path = third_party/OneMap
+	url = https://github.com/KTH-RPL/OneMap.git
+[submodule "third_party/vlfm"]
+	path = third_party/vlfm
+	url = https://github.com/rai-opensource/vlfm.git
+[submodule "third_party/HOV-SG"]
+	path = third_party/HOV-SG
+	url = https://github.com/hovsg/HOV-SG.git
