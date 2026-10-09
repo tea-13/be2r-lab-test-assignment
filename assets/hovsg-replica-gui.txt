@@ -1,0 +1,18 @@
+full pcd feats loaded from disk with shape (156, 1024)
+number of masked pcds loaded from disk 156
+number of mask_feats loaded from disk 156
+Loading local OpenCLIP ViT-H for HOV-SG text queries...
+GUI ready. Enter a query and click Search; select any of the top 5 segments.
+Screenshot: results/hovsg/visual-demo/rgb.png
+Screenshot: results/hovsg/visual-demo/instances.png
+{"query": "sofa", "top5": [{"id": 154, "similarity": 0.3375137746334076}, {"id": 143, "similarity": 0.33694297075271606}, {"id": 132, "similarity": 0.33185943961143494}, {"id": 12, "similarity": 0.3289676308631897}, {"id": 47, "similarity": 0.3270649015903473}]}
+Screenshot: results/hovsg/visual-demo/query-sofa.png
+{"query": "pillow", "top5": [{"id": 60, "similarity": 0.357191801071167}, {"id": 91, "similarity": 0.3465954065322876}, {"id": 39, "similarity": 0.34654635190963745}, {"id": 154, "similarity": 0.34183788299560547}, {"id": 129, "similarity": 0.33401578664779663}]}
+Screenshot: results/hovsg/visual-demo/query-pillow.png
+{"query": "lamp", "top5": [{"id": 105, "similarity": 0.34308233857154846}, {"id": 6, "similarity": 0.3290030062198639}, {"id": 2, "similarity": 0.32870063185691833}, {"id": 43, "similarity": 0.3199235796928406}, {"id": 22, "similarity": 0.2980131208896637}]}
+Screenshot: results/hovsg/visual-demo/query-lamp.png
+Screenshot: results/hovsg/visual-demo/similarity.png
+Screenshot: results/hovsg/visual-demo/ceiling-visible.png
+WARNING: Using soft CircularBuffer (6144 KiB)
+FEngine (64 bits) created at 0x40aec170 (threading is enabled)
+FEngine resolved backend: OpenGL

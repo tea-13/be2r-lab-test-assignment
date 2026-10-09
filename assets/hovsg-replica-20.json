@@ -1,0 +1,37 @@
+{
+  "map": "results/hovsg/demo-map-20261009-151437-1066501/raw/replica",
+  "frames": [
+    0,
+    100,
+    200,
+    300,
+    400,
+    500,
+    600,
+    700,
+    800,
+    900,
+    1000,
+    1100,
+    1200,
+    1300,
+    1400,
+    1500,
+    1600,
+    1700,
+    1800,
+    1900
+  ],
+  "points": 399663,
+  "segments": 156,
+  "mask_features_shape": [
+    156,
+    1024
+  ],
+  "mask_features_finite": true,
+  "elapsed_seconds": 308.66,
+  "max_rss_kib": 12941944,
+  "exit_code": 0,
+  "allocator": "expandable_segments:True",
+  "upstream_modified": false
+}

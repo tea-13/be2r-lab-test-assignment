@@ -1,0 +1,18 @@
+{
+  "mode": "upstream Dataset Mode",
+  "scene": "Replica room0",
+  "source_frames": 30,
+  "start": 0,
+  "end": 30,
+  "stride": 1,
+  "keyframes": 30,
+  "exit_code": 0,
+  "saved_object_pickles": 23,
+  "layout_bytes": 80342,
+  "mean_time_per_frame_s": 0.4549,
+  "p90_time_per_frame_s": 0.6021,
+  "use_parallel": false,
+  "use_rerun": false,
+  "semantic_metrics": null,
+  "limitation": "Short smoke test, no original Replica semantic GT; not paper reproduction"
+}

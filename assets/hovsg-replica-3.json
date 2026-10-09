@@ -1,0 +1,35 @@
+{
+  "status": "SMOKE_TESTED",
+  "upstream_exit_code": 0,
+  "scene": "Replica room0",
+  "source_frames": 30,
+  "processed_frame_indices": [
+    0,
+    10,
+    20
+  ],
+  "models": [
+    "OpenCLIP ViT-H-14 laion2b_s32b_b79k",
+    "SAM ViT-H"
+  ],
+  "sam_points_per_batch": 8,
+  "sam_points_per_side": 12,
+  "full_cloud_points": 79030,
+  "saved_objects": 30,
+  "full_features_shape": [
+    79030,
+    1024
+  ],
+  "mask_features_shape": [
+    30,
+    1024
+  ],
+  "features_finite": true,
+  "zero_full_features": 3588,
+  "elapsed_seconds": 39.94,
+  "max_rss_kib": 12583936,
+  "raw_path": "results/hovsg/replica-20261009-015744-1071525/raw/replica",
+  "semantic_metrics": null,
+  "semantic_metrics_reason": "Original Replica semantic GT not available",
+  "note": "Three-frame extraction, not full scene graph or paper benchmark"
+}

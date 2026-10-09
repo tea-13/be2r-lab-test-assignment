@@ -1,0 +1,22 @@
+{
+  "torch": "1.12.1+cu113",
+  "torchvision": "0.13.1+cu113",
+  "cuda": "11.3",
+  "available": true,
+  "gpu": "NVIDIA GeForce RTX 5060 Ti",
+  "capability": [
+    12,
+    0
+  ],
+  "compiled_arches": [
+    "sm_37",
+    "sm_50",
+    "sm_60",
+    "sm_70",
+    "sm_75",
+    "sm_80",
+    "sm_86"
+  ],
+  "kernel_ok": false,
+  "error": "CUDA error: no kernel image is available for execution on the device\nCUDA kernel errors might be asynchronously reported at some other API call,so the stacktrace below might be incorrect.\nFor debugging consider passing CUDA_LAUNCH_BLOCKING=1."
+}
